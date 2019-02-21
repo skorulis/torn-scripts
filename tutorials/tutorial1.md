@@ -24,7 +24,7 @@ To get started with creating a tampermonkey script the first thing to do is crea
 
 ```
 
-The top section is used by tampermonkey to decide how the script should run. The only part we care about is the @match directive which says which pages this script should run on. For our purposes we only want it on the item market page.
+The top section is used by tampermonkey to decide how the script should run. The only part we care about is the ```@match``` directive which says which pages this script should run on. For our purposes we only want it on the item market page.
 
 The second part is the function which helpfully tells you to put your code there. This is the entry point for our script and gets called after the page loads. Be careful here, just because the page is loaded doesn't mean it has loaded all the data it needs yet. We'll come back to that later.
 
@@ -54,7 +54,7 @@ function findAndClickBuyButton() {
 }
 ```
 
-The function name describes what it does so when someone reads the code they don't have to understand it. In order to find the buy button we'll use document.querySelector() to find it. We can find the selector using the chrome inspector. 
+The function name describes what it does so when someone reads the code they don't have to understand it. In order to find the buy button we'll use [document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) to find it. We can find the selector using the chrome inspector. 
 
 ![Chrome inspector](tut1-img1.png)
 
@@ -81,7 +81,7 @@ function findAndClickBuyButton() {
 }
 ```
 
-Yeah, that's all there is to it and our little function is complete. But right now nothing is calling the function. We need to add something in our entry function to call ```findAndClickBuyButton```. But remember from the start that I said the entry function only gets called on page load, but the buy button won't be visible until the item is chosen. For this we'll use the ```setInterval``` function which executes another function repeatedly after a set time.
+Yeah, that's all there is to it and our little function is complete. But right now nothing is calling the function. We need to add something in our entry function to call ```findAndClickBuyButton```. But remember from the start that I said the entry function only gets called on page load, but the buy button won't be visible until the item is chosen. For this we'll use the [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) function which executes another function repeatedly after a set time.
 
 ```javascript
 (function() {
@@ -92,4 +92,4 @@ Yeah, that's all there is to it and our little function is complete. But right n
 })();
 ```
 
-At this point everything should work and you can now buy items 50% faster.
+At this point everything should work and you can now buy items 50% faster. But there's a few potential problems here. What happens if we click the buy button multiple times before it registers?
