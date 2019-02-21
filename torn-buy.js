@@ -581,11 +581,20 @@ function hideItem(name) {
 	document.querySelector(selector).parentElement.style.display="none";
 }
 
+function findAndClickBuyButton() {
+    let buyButton = document.querySelector("a.yes-buy.t-blue");
+    if (!buyButton) {
+        return; //We didn't find the button so give up.
+    }
+    buyButton.click();
+}
+
 (function() {
     'use strict';
 
     setInterval(showPrices,200); //Every 200ms apply price highlighting
     setTimeout(defaultBazaarNumbers,1000); //1 second after page load, set the count of each bazaar item
-    //setInterval(hideGarbage,300); //Get rid of things in the item market that aren't useful
+    setInterval(hideGarbage,300); //Get rid of things in the item market that aren't useful
+    setInterval(findAndClickBuyButton,200); //Auto click buy buttons on the page
 
 })();
