@@ -12,7 +12,7 @@ To get started with creating a tampermonkey script the first thing to do is crea
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://www.torn.com/index.php
+// @match        https://www.torn.com/imarket.php   
 // @grant        none
 // ==/UserScript==
 
@@ -60,23 +60,27 @@ The function name describes what it does so when someone reads the code they don
 
 ```javascript
 function findAndClickBuyButton() {
-    let buyButton = document.querySelector("a.yes-buy.t-blue");
-    if (!buyButton) {
-        return; //We didn't find the button so give up.
+    let allButtons = document.querySelectorAll("a.yes-buy.t-blue"); 
+    if (allButtons.length == 0) {
+        return; //No buy buttons
     }
+
+    let buyButton = allButtons[allButtons.length - 1]; //Get the last button in the list
 }
 ```
 
-There's a few things going on here. ```let buybutton``` defines a variable called buyButton. We assign the value we get from the query and then use ```if(!buyButton)``` to make sure we found something. Otherwise we return to exit the function.
+There's a few things going on here. ```let allButtons``` defines a variable called allButtons. ```if (allButtons.length == 0)``` makes sure we have at least one buy button then we take the last one. The reason for this is because after clicking them buy buttons stay on the page.
 
 So now that we have the button the next thing to do is to click it.
 
 ```javascript
 function findAndClickBuyButton() {
-    let buyButton = document.querySelector("a.yes-buy.t-blue");
-    if (!buyButton) {
-        return; //We didn't find the button so give up.
+    let allButtons = document.querySelectorAll("a.yes-buy.t-blue"); 
+    if (allButtons.length == 0) {
+        return; //No buy buttons so give up
     }
+
+    let buyButton = allButtons[allButtons.length - 1]; //Get the last button in the list
     buyButton.click();
 }
 ```
@@ -88,8 +92,35 @@ Yeah, that's all there is to it and our little function is complete. But right n
     'use strict';
 
     console.log("It's working");
-    setInterval(findAndClickBuyButton,200); //Check for buy buttons every 200ms    
+    setInterval(findAndClickBuyButton,50); //Check for buy buttons every 50ms    
 })();
 ```
 
-At this point everything should work and you can now buy items 50% faster. But there's a few potential problems here. What happens if we click the buy button multiple times before it registers?
+At this point everything should work and you can now buy items 50% faster. But there's a few potential problems here. What happens if we click the buy button multiple times before it registers? What if we accidentely click on a super expensive item? 
+
+The first is the easiest of the two. If you look at the chrome information about the button we can see ```data-id="59973786"``` which is what would be used (I assume) to identify the item. [This article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes) explains how data attributes work If we can extract that number and store it we can make sure we don't click the button twice. So let's add that to the function we wrote.
+
+```javascript
+let lastBoughtItems = Array();
+
+function findAndClickBuyButton() {
+    let allButtons = document.querySelectorAll("a.yes-buy.t-blue"); 
+    if (allButtons.length == 0) {
+        return; //No buy buttons so give up
+    }
+
+    let buyButton = allButtons[allButtons.length - 1]; //Get the last button in the list
+
+    let itemId = buyButton.dataset.id;
+    if (lastBoughtItems.includes(itemId)) {
+        return; //We've already clicked this button, don't do it again
+    }
+    lastBoughtItems.push(itemId); //Add in the item we bought
+    console.log("Auto buying item " + itemId);
+    buyButton.click();
+}
+```
+
+And now things are a bit safer. I'll leave price safety for another time. It would involve having a list of prices and finding out the name of the item you're buying. Probably using something like [.parentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
+
+At this point it works but it's not quite perfect, there's a number of improvements that can be made. But it takes some experimentation and work to get it just right.

@@ -39,10 +39,10 @@ function findEvents() {
 function showStocks(stocks) {
     var container = document.querySelector(".mailbox-container");
     var newHTML = document.createElement ('table');
-    let headerRow = '<tr><td>Name</td><td>PRICE</td><td>QUANTITY</td></tr>'
+    let headerRow = '<tr><td style="padding:10pt">Name</td><td style="padding:10pt">PRICE</td><td style="padding:10pt">QUANTITY</td></tr>'
     let body = ''
     for (let stock of stocks) {
-        body += "<tr><td>" + stock.share + '</td><td>' + stock.amount + "</td><td>" + stock.count + "</td></tr>"
+        body += '<tr><td style="padding:10pt">' + stock.share + '</td><td style="padding:10pt">' + stock.amount + '</td><td style="padding:10pt">' + stock.count + "</td></tr>"
     }
     newHTML.innerHTML = headerRow + body;
     container.appendChild (newHTML);
