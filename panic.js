@@ -44,7 +44,40 @@ function checkSafety() {
         link.href = "https://www.torn.com/factions.php?step=your#/tab=armoury";
     }
     
-    setDefaultMoneyValue();    
+    setDefaultMoneyValue();
+    checkHealth();    
+}
+
+let lastLife = null;
+
+function checkHealth() {
+    let sidebar = document.querySelector("div#sidebarroot");
+    if (!sidebar) {
+        return;
+    }
+    let lifebar = sidebar.querySelector("a#barLife");
+    if (!lifebar) {
+        return;
+    }
+    let textElements = lifebar.querySelectorAll("p");
+    let lifeText = textElements[1];
+
+    let regexString = "^(\\d{2,5})\\/";
+    let regex = new RegExp(regexString);
+    let matches = regex.exec(lifeText.innerText);
+    if (!matches || matches.length == 0) {
+        return;
+    }
+
+    let currentLife = parseInt(matches[1]);
+
+    if (lastLife) {
+        if (currentLife == lastLife) {
+            document.body.style.background = "#e11";
+        }
+    }
+    lastLife = currentLife;
+    
 }
 
 (function() {
