@@ -17,8 +17,8 @@ function extractValues(text) {
     }
     console.log(matches[1])
 
-    let count = parseInt(matches[1].replace(/,/,""));
-    let amount = parseInt(matches[3].replace(/,/,""));
+    let count = parseInt(matches[1].replace(/,/,"").replace(/,/,""));
+    let amount = parseInt(matches[3].replace(/,/,"").replace(/,/,""));
     return {count:count, share:matches[2],amount:amount}
 }
 
@@ -50,6 +50,6 @@ function showStocks(stocks) {
 
 (function() {
     'use strict';
-    setTimeout(findEvents,1000);
+    setTimeout(findEvents,2000);
 
 })();

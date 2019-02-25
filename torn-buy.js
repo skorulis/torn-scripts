@@ -46,7 +46,7 @@
         "Jaguar Plushie":{buy:16000,sell:17500},
         "Kitten Plushie":{buy:500,sell:700},
         "Lion Plushie":{buy:70000,sell:77300},
-        "Monkey Plushie":51000,
+        "Monkey Plushie":50000,
         "Nessie Plushie":46500,
         "Panda Plushie":{buy:75000,sell:79000},
         "Red Fox Plushie":46000,
@@ -84,7 +84,7 @@
         "Gold Easter Egg":1500000,
         "White Easter Egg":{buy:3500000,sell:4000000},
 
-        "Bottle of Beer":700,
+        "Bottle of Beer":810,
         "Bottle of Tequila":1400,
         "Bottle of Champagne":2000,
         "Bottle of Saké":6000,
@@ -243,7 +243,7 @@
         "Trout":14000,
         "Throwing Knife":28000,
         "Snowball":33000,
-        "Tear Gas":45000,
+        "Tear Gas":44000,
         "Flash Grenade":66500,
         "Smoke Grenade":{buy:94000,sell:99000},
         "Molotov Cocktail":{buy:195000,sell:225000},
@@ -633,6 +633,7 @@
         }
 
         if (itemPrice <= buyPrice) {
+            buyButton.parentElement.parentElement.style.display = "none";
             buyButton.click();
         }
     }   
