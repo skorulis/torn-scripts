@@ -72,7 +72,7 @@ function checkHealth() {
     let currentLife = parseInt(matches[1]);
 
     if (lastLife) {
-        if (currentLife == lastLife) {
+        if (currentLife < lastLife) {
             document.body.style.background = "#e11";
         }
     }
