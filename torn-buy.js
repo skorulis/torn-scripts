@@ -6,6 +6,7 @@
     // @author       Alex Skorulis
     // @match        https://www.torn.com/imarket.php
     // @match        https://www.torn.com/bazaar.php
+    // @match        https://www.torn.com/*
     // @grant        none
     // ==/UserScript==
 
@@ -37,8 +38,8 @@
         "Orchid":25000,
         "Heather":48000,
         "Cherry Blossom":67000,
-        "African Violet":67000,
-        "Peony":77000,
+        "African Violet":64000,
+        "Peony":73000,
         "Tribulus Omanense":79000,
 
         "Camel Plushie":{buy:96000,sell:100000},
@@ -151,7 +152,7 @@
         "Tailors Dummy":10000,
         "Yucca Plant":9000,
         "Sextant":{buy:12000,sell:20000},
-        "Blank Tokens":22000,
+        "Blank Tokens":15000,
         "Fire Hydrant":{buy:22000,sell:32000},
         "Blank Credit Cards":{buy:30000,sell:50000},
         "Model Space Ship":{buy:30000,sell:40000},
@@ -188,9 +189,9 @@
 
 
         "Simple Virus":{buy:1000,sell:2500},
-        "Tunnelling Virus":24000,
+        "Tunnelling Virus":20000,
         "Polymorphic Virus":14000,
-        "Firewalk Virus":{buy:50000,sell:65000},
+        "Firewalk Virus":{buy:40000,sell:65000},
         "Armored Virus":{buy:128000,sell:145000},
         "Stealth Virus":{buy:200000,sell:240000},
 
@@ -553,10 +554,16 @@
             sellPrice = lookupPrice.sell;
         }
 
+        let savedPrice = window.localStorage.getItem(priceKey(nameElement.textContent));
+
         if (amount <= buyPrice * 0.90) {
             nameElement.style.border = "solid green";
         } else if (amount <= buyPrice) {
             nameElement.style.border = "solid black";
+        } else if (savedPrice && amount <= savedPrice * 0.90) {
+            nameElement.style.border = "dashed green";
+        } else if (savedPrice && amount <= savedPrice * 0.95) {
+            nameElement.style.border = "dashed yellow";
         } else if (amount >= sellPrice) {
             nameElement.style.border = "solid red";
         }
@@ -575,6 +582,7 @@
         hideItem("cars")
         
         let titles = document.querySelectorAll("li.ttl");
+        if (!titles) { return; }
         for (let x of titles) {
             x.style.display = "none";
         }
@@ -582,7 +590,9 @@
 
     function hideItem(name) {
         let selector = "a[href='#" + name + "']";
-        document.querySelector(selector).parentElement.style.display="none";
+        let element = document.querySelector(selector);
+        if (!element) { return;  }
+        element.parentElement.style.display="none";
     }
 
     let lastBoughtItems = Array();
@@ -636,7 +646,34 @@
             buyButton.parentElement.parentElement.style.display = "none";
             buyButton.click();
         }
-    }   
+    }
+    
+    function priceKey(itemName) {
+        return "tcp-" + itemName
+    }
+
+    function updateAveragePrices() {
+        let selector = "ul > li.show-item-info";
+        let priceContainer = document.querySelector(selector);
+        if (!priceContainer) {
+            return;
+        }
+
+        let nameElement = priceContainer.querySelector("div.clearfix.info-wrap > div > div > span.info-msg > span");
+        let priceElement = priceContainer.querySelector("div.info-content > div.clearfix.info-wrap > ul > li.t-left.graphs-stock.c-pointer > div.desc");
+        
+        if (!nameElement || !priceElement) {
+            return;
+        }
+
+        let name = nameElement.innerText.replace("The ","")
+        let price = toNumber(priceElement.innerText);
+
+        if (name && price) {
+            let key = priceKey(name);
+            window.localStorage.setItem(key,price);
+        }
+    }
 
     (function() {
         'use strict';
@@ -645,5 +682,6 @@
         setTimeout(defaultBazaarNumbers,1000); //1 second after page load, set the count of each bazaar item
         setInterval(hideGarbage,300); //Get rid of things in the item market that aren't useful
         setInterval(findAndClickBuyButton,200); //Auto click buy buttons on the page
+        setInterval(updateAveragePrices,200); //Find any average prices on the page and store locally
 
     })();
