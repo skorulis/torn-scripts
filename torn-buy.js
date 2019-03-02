@@ -384,16 +384,61 @@
             sell:2500000,
             armorPrices:[
                 {armor:38,value:2000000},
-                {armor:39.5,value:3000000},
-                {armor:40,value:5000000}
+                {armor:40,value:3000000},
+                {armor:40.8,value:4800000},
+                {armor:41,value:15000000},
             ]
         },
-        "Combat Boots":{buy:2000000,sell:2500000},
-        "Combat Pants":{buy:2500000,sell:3000000},
-        "Combat Helmet":{buy:2700000,sell:3500000},
+        "Combat Boots":{
+            buy:2000000,
+            sell:2500000,
+            armorPrices:[
+                {armor:38,value:2000000},
+                {armor:39.5,value:3000000},
+                {armor:40,value:3500000},
+                {armor:40.43,value:4500000},
+                {armor:40.5,value:4800000},
+                {armor:40.7,value:8000000}
+            ]
+        },
+        "Combat Pants":{
+            buy:2500000,
+            sell:3000000,
+            armorPrices:[
+                {armor:38,value:2000000},
+                {armor:39.5,value:3000000},
+                {armor:40,value:3500000},
+                {armor:40.43,value:4500000},
+                {armor:40.5,value:4800000},
+                {armor:40.7,value:8000000}
+            ]
+        },
+        "Combat Helmet":{
+            buy:2700000,
+            sell:3500000,
+            armorPrices:[
+                {armor:38,value:2000000},
+                {armor:39.5,value:3000000},
+                {armor:40,value:3500000},
+                {armor:40.43,value:4500000},
+                {armor:40.5,value:4800000},
+                {armor:40.7,value:8000000}
+            ]
+        },
         "Combat Vest":{buy:3000000,sell:4000000},
         "Liquid Body Armor":6500000,
-        "Motorcycle Helmet":10000000,
+        "Motorcycle Helmet":{
+            buy:10000000,
+            sell:12000000,
+            armorPrices:[
+                {armor:31.2,value:12000000},
+                {armor:32.0,value:20000000},
+                {armor:32.1,value:22000000},
+                {armor:32.7,value:60000000},
+                
+                
+            ]
+        },
         "Flexible Body Armor":{buy:10000000,sell:13000000},
 
         "Butterfly Knife":"ignore",
