@@ -379,7 +379,14 @@
         "Kevlar Gloves":{buy:300000,sell:450000},
         "Outer Tactical Vest":{buy:600000,sell:850000},
         "Medieval Helmet":{buy:600000,sell:1250000},
-        "Combat Gloves":{buy:1700000,sell:2500000},
+        "Combat Gloves":{
+            buy:1700000,
+            sell:2500000,
+            armorPrices:[
+                {armor:38,value:3000000},
+                {armor:40,value:3000000}
+            ]
+        },
         "Combat Boots":{buy:2000000,sell:2500000},
         "Combat Pants":{buy:2500000,sell:3000000},
         "Combat Helmet":{buy:2700000,sell:3500000},
@@ -388,18 +395,18 @@
         "Motorcycle Helmet":10000000,
         "Flexible Body Armor":{buy:10000000,sell:13000000},
 
-        "Butterfly Knife":200,
-        "Hammer":1,
-        "Lead Pipe":1,
-        "Baseball Bat":1,
-        "Plastic Sword":1,
-        "Crow Bar":1,
-        "Frying Pan":1,
-        "Spear":1,
-        "Pen Knife":1,
-        "Leather Bull Whip":1,
-        "Sai":1,
-        "Bo Staff":1,
+        "Butterfly Knife":"ignore",
+        "Hammer":"ignore",
+        "Lead Pipe":"ignore",
+        "Baseball Bat":"ignore",
+        "Plastic Sword":"ignore",
+        "Crow Bar":"ignore",
+        "Frying Pan":"ignore",
+        "Spear":"ignore",
+        "Pen Knife":"ignore",
+        "Leather Bull Whip":"ignore",
+        "Sai":"ignore",
+        "Bo Staff":"ignore",
         "Kitchen Knife":100,
         "Dagger":100,
         "Swiss Army Knife":100,
@@ -544,7 +551,9 @@
         let buyPrice;
         let sellPrice;
 
-        if (typeof lookupPrice === 'number') {
+        if (lookupPrice === "ignore") {
+            return; //Not interested in this item
+        } else if (typeof lookupPrice === 'number') {
             //Only checking buy prices
             buyPrice = lookupPrice;
             sellPrice = Math.max(lookupPrice * 1.25,lookupPrice + 2000);
@@ -677,6 +686,37 @@
         }
     }
 
+    function highlightArmor() {
+        let container = document.querySelector("li.buy-show-item-info") || document.querySelector(".show-item-info");
+        if (!container) { return ;}
+        let nameElement = container.previousSibling.querySelector(".item-name");
+        let priceElement = container.previousSibling.querySelector(".cost");
+
+        let armorElement = container.querySelector(".bonus-attachment-item-defence-bonus").parentElement;
+
+        if (!nameElement || !priceElement || !armorElement) { return; }
+        let name = nameElement.innerText;
+        let price = toNumber(priceElement.innerText);
+        let armor = parseFloat(armorElement.innerText);
+
+
+        let lookupPrice = priceMapping[name];
+        if (!lookupPrice || typeof lookupPrice != "object" ) { return ;}
+        let armorPrices = lookupPrice.armorPrices;
+        if (!armorPrices) { return ;}
+
+        for (let entry of armorPrices) {
+            if (armor > entry.armor) {
+                if (price <= entry.value * 0.9) {
+                    container.style.border = "solid green";
+                } else if (price <= entry.value ) {
+                    container.style.border = "solid black";
+                }
+            }
+        }
+
+    }
+
     (function() {
         'use strict';
 
@@ -685,5 +725,6 @@
         setInterval(hideGarbage,300); //Get rid of things in the item market that aren't useful
         setInterval(findAndClickBuyButton,200); //Auto click buy buttons on the page
         setInterval(updateAveragePrices,200); //Find any average prices on the page and store locally
+        setInterval(highlightArmor,100); //Highlight any armor based on good prices
 
     })();
