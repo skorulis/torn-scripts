@@ -563,9 +563,11 @@
         } else if (savedPrice && amount <= savedPrice * 0.90) {
             nameElement.style.border = "dashed green";
         } else if (savedPrice && amount <= savedPrice * 0.95) {
-            nameElement.style.border = "dashed yellow";
+            nameElement.style.border = "dashed black";
         } else if (amount >= sellPrice) {
             nameElement.style.border = "solid red";
+        } else {
+            nameElement.style.border = "none";
         }
     }
 
