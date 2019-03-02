@@ -691,10 +691,37 @@
     }
 
     function highlightArmor() {
-        let container = document.querySelector("li.buy-show-item-info") || document.querySelector(".show-item-info");
-        if (!container) { return ;}
+        let containers = document.querySelectorAll("li.buy-show-item-info, .show-item-info");
+
+        for (let c of containers) {
+            highlightArmorContainer(c);
+        }
+        
+    }
+
+    function highlightArmorContainer(container) {
         let nameElement = container.querySelector("div.clearfix.info-wrap > div > div > span.info-msg > span");
         let priceElement = container.previousSibling.querySelector(".cost");
+
+        if (!priceElement) {
+            let currentElement = container;
+            let foundElement = null;
+            while(currentElement.className != "first") {
+                currentElement = currentElement.previousSibling;
+                
+                if (currentElement.nodeName == "#text") {
+                    continue;
+                }
+
+                let background = window.getComputedStyle(currentElement, null).getPropertyValue("background-color");
+                if (background === "rgb(255, 255, 255)") {
+                    foundElement = currentElement;
+                    break;
+                }
+            }
+            if (!foundElement) {return;}
+            priceElement = foundElement.querySelector(".price");
+        }
 
         let armorElement = container.querySelector(".bonus-attachment-item-defence-bonus")
         if (!armorElement) { return;}
@@ -710,18 +737,15 @@
         let armorPrices = lookupPrice.armorPrices;
         if (!armorPrices) { return ;}
 
-        console.log(price);
-
         for (let entry of armorPrices) {
             if (armor >= entry.armor) {
                 if (price <= entry.value * 0.9) {
-                    container.style.border = "solid green";
+                    priceElement.style.border = "solid green";
                 } else if (price <= entry.value ) {
-                    container.style.border = "solid black";
+                    priceElement.style.border = "solid black";
                 }
             }
         }
-
     }
 
     (function() {
