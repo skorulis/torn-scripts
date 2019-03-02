@@ -529,6 +529,10 @@
 
     }
 
+    function cleanNumber(text) {
+        return text.replace(/[^0-9a-z\.]/gi, '')
+    }
+
     function toNumber(text) {
         return parseInt(text.replace("$","").replace(",","").replace(",","").replace(",",""));
     }
@@ -689,24 +693,27 @@
     function highlightArmor() {
         let container = document.querySelector("li.buy-show-item-info") || document.querySelector(".show-item-info");
         if (!container) { return ;}
-        let nameElement = container.previousSibling.querySelector(".item-name");
+        let nameElement = container.querySelector("div.clearfix.info-wrap > div > div > span.info-msg > span");
         let priceElement = container.previousSibling.querySelector(".cost");
 
-        let armorElement = container.querySelector(".bonus-attachment-item-defence-bonus").parentElement;
+        let armorElement = container.querySelector(".bonus-attachment-item-defence-bonus")
+        if (!armorElement) { return;}
+        armorElement = armorElement.parentElement;
 
         if (!nameElement || !priceElement || !armorElement) { return; }
-        let name = nameElement.innerText;
+        let name = nameElement.innerText.replace("The ","");
         let price = toNumber(priceElement.innerText);
-        let armor = parseFloat(armorElement.innerText);
-
+        let armor = parseFloat(cleanNumber(armorElement.innerText));
 
         let lookupPrice = priceMapping[name];
         if (!lookupPrice || typeof lookupPrice != "object" ) { return ;}
         let armorPrices = lookupPrice.armorPrices;
         if (!armorPrices) { return ;}
 
+        console.log(price);
+
         for (let entry of armorPrices) {
-            if (armor > entry.armor) {
+            if (armor >= entry.armor) {
                 if (price <= entry.value * 0.9) {
                     container.style.border = "solid green";
                 } else if (price <= entry.value ) {
