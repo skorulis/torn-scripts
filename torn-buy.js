@@ -383,8 +383,9 @@
             buy:1700000,
             sell:2500000,
             armorPrices:[
-                {armor:38,value:3000000},
-                {armor:40,value:3000000}
+                {armor:38,value:2000000},
+                {armor:39.5,value:3000000},
+                {armor:40,value:5000000}
             ]
         },
         "Combat Boots":{buy:2000000,sell:2500000},
@@ -702,12 +703,14 @@
     function highlightArmorContainer(container) {
         let nameElement = container.querySelector("div.clearfix.info-wrap > div > div > span.info-msg > span");
         let priceElement = container.previousSibling.querySelector(".cost");
+        let idElement = container.previousSibling.querySelector(".view-link");
 
         if (!priceElement) {
             let currentElement = container;
             let foundElement = null;
             while(currentElement.className != "first") {
                 currentElement = currentElement.previousSibling;
+                if (!currentElement) { return ;}
                 
                 if (currentElement.nodeName == "#text") {
                     continue;
@@ -716,6 +719,7 @@
                 let background = window.getComputedStyle(currentElement, null).getPropertyValue("background-color");
                 if (background === "rgb(255, 255, 255)") {
                     foundElement = currentElement;
+                    idElement = foundElement.querySelector("span.img-wrap");
                     break;
                 }
             }
@@ -736,14 +740,42 @@
         if (!lookupPrice || typeof lookupPrice != "object" ) { return ;}
         let armorPrices = lookupPrice.armorPrices;
         if (!armorPrices) { return ;}
-
+        
+        let worthBuying = false;
         for (let entry of armorPrices) {
             if (armor >= entry.armor) {
                 if (price <= entry.value * 0.9) {
                     priceElement.style.border = "solid green";
+                    worthBuying = true;
                 } else if (price <= entry.value ) {
                     priceElement.style.border = "solid black";
+                    worthBuying = true;
                 }
+            }
+        }
+
+        if (!worthBuying && idElement) {
+            let id = idElement.dataset.armoury || idElement.getAttribute("armouryid");
+            if (id) {
+                window.localStorage.setItem("arm-id-" + id,Date());
+            }            
+        }
+    }
+
+    function hideSeenItems() {
+        let allItems = document.querySelectorAll("span.img-wrap, span.view-link");
+
+
+        for (let item of allItems) {
+            let itemId = item.dataset.armoury || item.getAttribute("armouryid");
+            
+            if (!itemId) {
+                continue;
+            }
+            let key = "arm-id-"+itemId;
+            let seenValue = window.localStorage.getItem(key);
+            if (seenValue) {
+                item.parentElement.parentElement.style.opacity = 0.5;
             }
         }
     }
@@ -757,5 +789,6 @@
         setInterval(findAndClickBuyButton,200); //Auto click buy buttons on the page
         setInterval(updateAveragePrices,200); //Find any average prices on the page and store locally
         setInterval(highlightArmor,100); //Highlight any armor based on good prices
+        setInterval(hideSeenItems, 200); //Hide any items that have been seen
 
     })();
