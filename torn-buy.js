@@ -398,7 +398,8 @@
                 {armor:40,value:3500000},
                 {armor:40.43,value:4500000},
                 {armor:40.5,value:4800000},
-                {armor:40.7,value:8000000}
+                {armor:40.7,value:8000000},
+                {armor:41.0,value:15000000}
             ]
         },
         "Combat Pants":{
@@ -410,7 +411,9 @@
                 {armor:40,value:3500000},
                 {armor:40.43,value:4500000},
                 {armor:40.5,value:4800000},
-                {armor:40.7,value:8000000}
+                {armor:40.7,value:8000000},
+                {armor:41.1,value:30000000},
+                {armor:41.5,value:50000000}
             ]
         },
         "Combat Helmet":{
@@ -587,10 +590,6 @@
     function highlight(amountElement,nameElement) {
         let amount = toNumber(amountElement.textContent);
         let lookupPrice = priceMapping[nameElement.textContent];
-        if (!lookupPrice) {
-            nameElement.style.border = "dashed grey";
-            return;
-        }
 
         if (!amount) {
             //Something has gone wrong
@@ -607,7 +606,7 @@
             //Only checking buy prices
             buyPrice = lookupPrice;
             sellPrice = Math.max(lookupPrice * 1.25,lookupPrice + 2000);
-        } else {
+        } else if (typeof lookupPrice === "object") {
             //Buy and sell prices
             buyPrice = lookupPrice.buy;
             sellPrice = lookupPrice.sell;
@@ -615,16 +614,18 @@
 
         let savedPrice = window.localStorage.getItem(priceKey(nameElement.textContent));
 
-        if (amount <= buyPrice * 0.90) {
+        if (buyPrice && amount <= buyPrice * 0.90) {
             nameElement.style.border = "solid green";
-        } else if (amount <= buyPrice) {
+        } else if (buyPrice && amount <= buyPrice) {
             nameElement.style.border = "solid black";
         } else if (savedPrice && amount <= savedPrice * 0.90) {
             nameElement.style.border = "dashed green";
         } else if (savedPrice && amount <= savedPrice * 0.95) {
             nameElement.style.border = "dashed black";
-        } else if (amount >= sellPrice) {
+        } else if (sellPrice && amount >= sellPrice) {
             nameElement.style.border = "solid red";
+        }  else if (!lookupPrice) {
+            nameElement.style.border = "dashed grey";
         } else {
             nameElement.style.border = "none";
         }
@@ -706,7 +707,16 @@
         if (itemPrice <= buyPrice) {
             buyButton.parentElement.parentElement.style.display = "none";
             buyButton.click();
+            return;
         }
+
+        let savedPrice = window.localStorage.getItem(priceKey(itemName));
+
+        if (savedPrice && itemPrice <= savedPrice * 0.9) {
+            buyButton.parentElement.parentElement.style.display = "none";
+            buyButton.click();
+        }
+
     }
     
     function priceKey(itemName) {
