@@ -43,3 +43,14 @@
 - Bag of Sherbet: 280K
 - Bag of Reindeer Droppings: 109K
 - Book of Carols: 13.25M
+
+
+
+[DeKleineKobini](https://www.torn.com/profiles.php?XID=2114440#/) - [Prices](https://docs.google.com/spreadsheets/d/1GnGkL4g99uPZaDv6CI6n-INCYwBx4ETRMVaEvsO62cw/edit#gid=1930918982)
+----
+
+[Rob_Snow](https://www.torn.com/profiles.php?XID=2177733#/) - [Prices](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmydhFkIqg42Bg6xVzyQNKVOSxmqYf-DCwQ9S2kneA-MIWvvk5Jlj6mpeoGXwNu_7yn1enlYqAwsUe/pubhtml)
+----
+
+
+
