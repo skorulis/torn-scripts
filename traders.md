@@ -51,6 +51,16 @@
 
 [Rob_Snow](https://www.torn.com/profiles.php?XID=2177733#/) - [Prices](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmydhFkIqg42Bg6xVzyQNKVOSxmqYf-DCwQ9S2kneA-MIWvvk5Jlj6mpeoGXwNu_7yn1enlYqAwsUe/pubhtml)
 ----
-
-
+- RS232: 700
+- TV: 2500
+- Microwave: 3000
+- Bag of bon bons: 800
+- Sweet hearts: 800
+- Single red rose: 805
+- Kitten: 805
+- Mediocre t-shirt: 8500
+- Sweater: 7500
+- Soap on a rope: 715
+- Grenade: 7005
+- Pearl necklace: 30000
 
