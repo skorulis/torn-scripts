@@ -27,20 +27,20 @@
         "Neumune Tablet":{buy:5000000,sell:6500000},
 
         "Bunch of Flowers":300,
-        "Bunch of Black Roses":400,
-        "Dozen Roses":400,
-        "Single Red Rose":400,
-        "Dahlia":{buy:2900,sell:3250},
+        "Bunch of Black Roses":500,
+        "Dozen Roses":500,
+        "Single Red Rose":500,
+        "Dahlia":{buy:2600,sell:3050},
         "Crocus":8600,
         "Banana Orchid":9100,
         "Ceibo Flower":45500,
         "Edelweiss":44000,
-        "Orchid":25000,
+        "Orchid":22000,
         "Heather":48000,
         "Cherry Blossom":67000,
         "African Violet":64000,
         "Peony":73000,
-        "Tribulus Omanense":79000,
+        "Tribulus Omanense":75000,
 
         "Camel Plushie":{buy:96000,sell:100000},
         "Chamois Plushie":{buy:50000,sell:55000},
@@ -113,9 +113,9 @@
         "Shrooms":14000,
         "Ketamine":20000,
         "LSD":{buy:60000,sell:65000},
-        "Ecstasy":{buy:65000,sell:76000},
-        "Opium":{buy:80000,sell:90000},
-        "PCP":96000,
+        "Ecstasy":{buy:63000,sell:76000},
+        "Opium":{buy:75000,sell:85000},
+        "PCP":91000,
         "Speed":145000,
         "Xanax":{buy:830000,sell:840000},
         "Love Juice":9000000,
@@ -134,13 +134,13 @@
         "Box of Tissues":250,
         "Bolt Cutters":350,
         "Empty Box":300,
-        "Soap on a Rope":250,
-        "Crazy Straw":300,
-        "Sumo Doll":{buy:5000,sell:10000},
+        "Soap on a Rope":500,
+        "Crazy Straw":350,
+        //"Sumo Doll":{buy:5000,sell:10000},
         "Paper Weight":2500,
         "Elephant Statue":2000,
         "Chopsticks":2500,
-        "Certificate of Awesome":{buy:20000,sell:30000},
+        "Certificate of Awesome":{buy:25000,sell:30000},
         "Snowboard":5000,
         "Hockey Stick":7000,
         "Certificate of Lame":6000,
@@ -164,7 +164,7 @@
         "Advent Calendar":{buy:70000,sell:100000},
         "Maneki Neko":50000,
         "Christmas Angel":{buy:50000,sell:75000},
-        "Santa's Snot":{buy:50000,sell:100000},
+        "Santa's Snot":{buy:80000,sell:100000},
         "Gas Can":{buy:700000,sell:850000},
         "Salt Shaker":{buy:90000,sell:120000},
         "Gingerbread Man":100000,
@@ -175,7 +175,7 @@
         "Turkey Baster":{buy:200000,sell:300000},
         "C4 Explosive":200000,
         "Jack O Lantern Lamp":{buy:150000,sell:300000},
-        "Lump of Coal":{buy:240000,sell:300000},
+        "Lump of Coal":{buy:230000,sell:300000},
         "Golden Candy Cane":{buy:300000,sell:420000},
         "Glow stick":{buy:150000,sell:250000},
         "Mistletoe":{buy:150000,sell:350000},
@@ -189,10 +189,7 @@
 
 
         "Simple Virus":{buy:1000,sell:2500},
-        "Tunnelling Virus":20000,
-        "Polymorphic Virus":14000,
-        "Firewalk Virus":{buy:40000,sell:65000},
-        "Armored Virus":{buy:128000,sell:145000},
+        "Tunnelling Virus":15000,
         "Stealth Virus":{buy:200000,sell:240000},
 
         "Jacket":400,
@@ -200,11 +197,11 @@
         "Tank Top":300,
         "Bandana":700,
         "Diving Gloves":2500,
-        "Mediocre T-Shirt":{buy:3000,sell:6500},
+        "Mediocre T-Shirt":{buy:5000,sell:8500},
         "Speedo":3000,
         "Sweater":6500,
-        "Flippers":{buy:6000,sell:9000},
-        "Proda Sunglasses":7000,
+        "Flippers":{buy:7000,sell:9000},
+        "Proda Sunglasses":8000,
         "Sports Shades":7000,
         "Bikini":10000,
         "Kabuki Mask":10000,
@@ -222,18 +219,18 @@
         "Santa Trousers":200000,
 
 
-        "Gold Watch":300,
-        "Gold Ring":300,
-        "Plastic Watch":300,
-        "Sapphire Ring":400,
+        "Gold Watch":400,
+        "Gold Ring":400,
+        "Plastic Watch":400,
+        "Sapphire Ring":600,
         "Plain Silver Ring":500,
         "Gold Necklace":400,
-        "Silver Necklace":500,
-        "Stainless Steel Watch":1200,
+        "Silver Necklace":800,
+        "Stainless Steel Watch":1300,
         "Diamond Ring":4000,
-        "Pearl Necklace":15000,
+        "Pearl Necklace":25000,
 
-        "Brick":300,
+        "Brick":500,
         "Pepper Spray":1200,
         "Ninja Stars":2500,
         "Grenade":6500,
@@ -244,31 +241,16 @@
         "Trout":14000,
         "Throwing Knife":28000,
         "Snowball":33000,
-        "Tear Gas":44000,
+        "Tear Gas":41000,
         "Flash Grenade":66500,
-        "Smoke Grenade":{buy:94000,sell:99000},
-        "Molotov Cocktail":{buy:195000,sell:225000},
+        "Smoke Grenade":{buy:120000,sell:130000},
+        "Molotov Cocktail":{buy:185000,sell:225000},
         "Melatonin":285000,
         "Tyrosine":580000,
         "Epinephrine":850000,
         "Serotonin":1200000,
         "Book":1900000,
 
-        "Heavy Duty Padlock":250000,
-        "Duct Tape":230000,
-        "Tumble Dryer":240000,
-        "Pair of Glasses":235000,
-        "High-Speed DVD Drive":230000,
-        "Fanny Pack":270000,
-        "Chloroform":290000,
-        "Tracking Device":300000,
-        "Wireless Dongle":460000,
-        "Slim Crowbar":600000,
-        "Screwdriver":800000,
-        "Cut-Throat Razor":800000,
-        "Ergonomic Keyboard":1000000,
-        "Mountain Bike":1000000,
-        "Advanced Driving Tactics Manual":900000,
         "Large Suitcase":9500000,
 
         "Lawyer Business Card":425000,
@@ -278,22 +260,22 @@
         "Feathery Hotel Coupon":14000000,
 
         "Personal Computer":250,
-        "MP3 Player":250,
-        "Pack of Blank CDs":250,
-        "Hard Drive":250,
-        "CD Player":250,
-        "Pack of Music CDs":250,
-        "Pack of Blank CDs : 100":250,
-        "RS232 Cable":350,
-        "Big TV Screen":1700,
+        "MP3 Player":400,
+        "Pack of Blank CDs":400,
+        "Hard Drive":400,
+        "CD Player":400,
+        "Pack of Music CDs":400,
+        "Pack of Blank CDs : 100":400,
+        "RS232 Cable":500,
+        "Big TV Screen":2200,
         "DVD Player":2000,
-        "Microwave":2000,
-        "Xbox 360":70000,
-        "Playstation":80000,
-        "Xbox":80000,
-        "Laptop":2500000,
+        "Microwave":2500,
+        "Xbox 360":85000,
+        "Playstation":85000,
+        "Xbox":85000,
+        "Laptop":2650000,
 
-        "Lottery Voucher":900000,
+        "Lottery Voucher":860000,
         "Box of Medical Supplies":930000,
         "Box of Grenades":950000,
         "Six Pack of Alcohol":1450000,
@@ -351,12 +333,12 @@
         "Gold Noble Coin":1680000,
         "Leopard Coin":1680000,
         "Florin Coin":1680000,
-        "Senet Board":6500000,
-        "Vairocana Buddha Sculpture":5000000,
+        "Senet Board":6300000,
+        "Vairocana Buddha Sculpture":6000000,
         "Black Senet Pawn":8600000,
         "White Senet Pawn":8600000,
         "Ganesha Sculpture":12500000,
-        "Script from the Quran: Ibn Masud":	16000000,
+        "Script from the Quran: Ibn Masud":	15500000,
         "Script from the Quran: Ali":17000000,
         "Script from the Quran: Ubay Ibn Kab":17000000,
         "Shabti Sculpture":26000000,
@@ -382,71 +364,71 @@
         "Combat Gloves":{
             buy:1700000,
             sell:2500000,
-            armorPrices:[
-                {armor:38,value:2000000},
-                {armor:40,value:3000000},
-                {armor:40.8,value:4800000},
-                {armor:41,value:15000000},
+            statPrices:[
+                {stat:38,value:2000000},
+                {stat:40,value:3000000},
+                {stat:40.8,value:4800000},
+                {stat:41,value:15000000},
             ]
         },
         "Combat Boots":{
             buy:2000000,
             sell:2500000,
-            armorPrices:[
-                {armor:38,value:2000000},
-                {armor:39.5,value:2500000},
-                {armor:40,value:3500000},
-                {armor:40.43,value:4500000},
-                {armor:40.5,value:4800000},
-                {armor:40.7,value:8000000},
-                {armor:41.0,value:15000000}
+            statPrices:[
+                {stat:38,value:2000000},
+                {stat:39.5,value:2500000},
+                {stat:40,value:3500000},
+                {stat:40.43,value:4500000},
+                {stat:40.5,value:4800000},
+                {stat:40.7,value:8000000},
+                {stat:41.0,value:15000000}
             ]
         },
         "Combat Pants":{
             buy:2500000,
             sell:3000000,
-            armorPrices:[
-                {armor:38,value:2000000},
-                {armor:39.5,value:3000000},
-                {armor:40,value:3500000},
-                {armor:40.43,value:4500000},
-                {armor:40.5,value:4800000},
-                {armor:40.7,value:8000000},
-                {armor:41.1,value:30000000},
-                {armor:41.5,value:50000000}
+            statPrices:[
+                {stat:38,value:2000000},
+                {stat:39.5,value:3000000},
+                {stat:40,value:3500000},
+                {stat:40.43,value:4500000},
+                {stat:40.5,value:4800000},
+                {stat:40.7,value:8000000},
+                {stat:41.1,value:30000000},
+                {stat:41.5,value:50000000}
             ]
         },
         "Combat Helmet":{
             buy:2700000,
             sell:3500000,
-            armorPrices:[
-                {armor:38,value:2000000},
-                {armor:39.5,value:3000000},
-                {armor:40,value:3500000},
-                {armor:40.43,value:4500000},
-                {armor:40.5,value:4800000},
-                {armor:40.7,value:5500000}
+            statPrices:[
+                {stat:38,value:2000000},
+                {stat:39.5,value:3000000},
+                {stat:40,value:3500000},
+                {stat:40.43,value:4500000},
+                {stat:40.5,value:4800000},
+                {stat:40.7,value:5500000}
             ]
         },
         "Combat Vest":{
             buy:3000000,
             sell:4000000,
-            armorPrices:[
-                {armor:40.7,value:50000000},
-                {armor:41,value:7000000},
-                {armor:41.5,value:15000000},
-                {armor:42,value:50000000},
+            statPrices:[
+                {stat:40.7,value:50000000},
+                {stat:41,value:7000000},
+                {stat:41.5,value:15000000},
+                {stat:42,value:50000000},
             ]
         },
         "Liquid Body Armor":6500000,
         "Motorcycle Helmet":{
             buy:10000000,
             sell:12000000,
-            armorPrices:[
-                {armor:31.2,value:12000000},
-                {armor:32.0,value:20000000},
-                {armor:32.1,value:22000000},
-                {armor:32.7,value:60000000},
+            statPrices:[
+                {stat:31.2,value:12000000},
+                {stat:32.0,value:20000000},
+                {stat:32.1,value:22000000},
+                {stat:32.7,value:60000000},
                 
                 
             ]
@@ -469,33 +451,47 @@
         "Dagger":100,
         "Swiss Army Knife":100,
         "Chain Whip":{buy:100,sell:2500},
-        "Axe":{buy:1000,sell:3500},
+        "Axe":{buy:3000,sell:3500},
         "Knuckle Dusters":200,
-        "Ninja Claws":{buy:2000,sell:6000},
-        "Taser":{buy:2000,sell:5000},
-        "Wooden Nunchakus":{buy:2000,sell:5000},
-        "Scimitar":{buy:4000,sell:56000},
-        "Chainsaw":{buy:7000,sell:15000},
-        "Katana":{buy:8000,sell:15000},
-        "Cricket Bat":{buy:8000,sell:15000},
+        "Ninja Claws":{buy:5000,sell:6000},
+        "Taser":{buy:4000,sell:5000},
+        "Wooden Nunchakus":{buy:4000,sell:5000},
+        "Scimitar":{buy:5000,sell:56000},
+        "Chainsaw":{buy:11000,sell:15000},
+        "Katana":{buy:12000,sell:15000},
+        "Cricket Bat":{buy:9500,sell:15000},
         "Ice Pick":{buy:15000,sell:25000},
         "Fine Chisel":{buy:280000,sell:410000},
-        "Samurai Sword":45000,
-        "Claymore Sword":{buy:60000,sell:80000},
+        "Samurai Sword":53000,
+        "Claymore Sword":{buy:74000,sell:80000},
         "Twin Tiger Hooks":73000,
         "Kama":{buy:75000,sell:100000},
         "Macana":{buy:80000,sell:140000},
         "Kodachi Swords":{buy:80000,sell:115000},
         "Wushu Double Axes":{buy:85000,sell:120000},
-        "Guandao":140000,
+        "Guandao":150000,
         "Rusty Sword":{buy:160000,sell:210000},
-        "Metal Nunchakus":380000,
+        "Metal Nunchakus":{
+            buy:380000,
+            sell:440000,
+            statPrices:[
+                {stat:133, value:1000000},
+                {stat:133.2, value:2000000}
+            ]
+        },
         "Diamond Icicle":{buy:450000,sell:650000},
-        "Diamond Bladed Knife":800000,
+        "Diamond Bladed Knife":{
+            buy:800000,
+            sell:1000000,
+            statPrices:[
+                {stat:133.7, value:1000000},
+                {stat:134, value:2000000}
+            ]
+        },
         "Pair of Ice Skates":800000,
         "Pillow":800000,
         "Ivory Walking Cane":2100000,
-        "Blood Spattered Sickle":4000000,
+        "Blood Spattered Sickle":2000000,
         "Flail":7500000,
         "Yasukuni Sword":10000000,
 
@@ -503,28 +499,28 @@
         "Benelli M1 Tactical":{buy:100,sell:4000},
         "MP5 Navy":{buy:100,sell:5000},
         "Sks Carbine":{buy:2000,sell:6500},
-        "P90":{buy:2000,sell:10000},
+        "P90":{buy:6600,sell:10000},
         "Thompson":{buy:2000,sell:15000},
-        "Vektor CR-21":{buy:2000,sell:7000},
-        "Ithaca 37":{buy:2000,sell:8000},
+        "Vektor CR-21":{buy:6500,sell:7000},
+        "Ithaca 37":{buy:7000,sell:8000},
         "MP5k":{buy:5000,sell:10000},
-        "Bushmaster Carbon 15 Type 21s":{buy:5000,sell:12000},
+        "Bushmaster Carbon 15 Type 21s":{buy:10000,sell:12000},
         "AK-47":{buy:5000,sell:13000},
-        "XM8 Rifle":{buy:7000,sell:12000},
+        "XM8 Rifle":{buy:9000,sell:12000},
         "M4A1 Colt Carbine":{buy:12000,sell:30000},
-        "Benelli M4 Super":{buy:15000,sell:30000},
-        "Heckler & Koch SL8":{buy:28000,sell:40000},
-        "M16 A2 Rifle":{buy:30000,sell:40000},
-        "Mag 7":{buy:40000,sell:60000},
-        "Sig 550":{buy:45000,sell:65000},
-        "Steyr AUG":{buy:65000,sell:80000},
+        "Benelli M4 Super":{buy:21000,sell:30000},
+        "Heckler & Koch SL8":{buy:35000,sell:40000},
+        "M16 A2 Rifle":{buy:35000,sell:40000},
+        "Mag 7":{buy:50000,sell:60000},
+        "Sig 550":{buy:55000,sell:65000},
+        "Steyr AUG":{buy:75000,sell:80000},
         "AK74u":{buy:65000,sell:95000},
-        "TMP":{buy:20000,sell:85000},
+        "TMP":{buy:5000,sell:85000},
         "MP 40":{buy:75000,sell:120000},
         "Enfield SA-80":{buy:240000,sell:300000},
         "Tavor TAR-21":{buy:350000,sell:400000},
-        "Skorpion":{buy:85000,sell:100000},
-        "9mm Uzi":{buy:520000,sell:650000},
+        "Skorpion":{buy:55000,sell:100000},
+        "9mm Uzi":{buy:600000,sell:650000},
         "M249 PARA LMG":{buy:650000,sell:800000},
         "Minigun":{buy:800000,sell:1500000},
         "Jackhammer":{buy:2000000,sell:4500000},
@@ -539,23 +535,23 @@
         "Ruger 22/45":1,
         "Beretta M9":{buy:100,sell:2500},
         "Crossbow":100,
-        "USP":100,
+        "USP":1700,
         "Slingshot":{buy:200,sell:5000},
-        "Blowgun":{buy:200,sell:3000},
+        "Blowgun":{buy:2000,sell:3000},
         "Luger":200,
-        "Beretta 92FS":{buy:1000,sell:6000},
+        "Beretta 92FS":{buy:3500,sell:6000},
         "S&W Revolver":500,
-        "Fiveseven":{buy:3000,sell:9000},
+        "Fiveseven":{buy:7500,sell:9000},
         "Blunderbuss":{buy:4000,sell:8000},
-        "Magnum":{buy:20000,sell:30000},
-        "S&W M29":{buy:12000,sell:30000},
-        "BT MP9":{buy:30000,sell:55000},
-        "Cobra Derringer":{buy:30000,sell:60000},
-        "Desert Eagle":{buy:34000,sell:50000},
-        "Harpoon":{buy:180000,sell:250000},
-        "Qsz-92":{buy:50000,sell:220000},
-        "Dual 92G Berettas":800000,
-        "Flamethrower":{buy:2000000,sell:2700000},
+        "Magnum":{buy:16000,sell:30000},
+        "S&W M29":{buy:25000,sell:30000},
+        "BT MP9":{buy:40000,sell:55000},
+        "Cobra Derringer":{buy:55000,sell:60000},
+        "Desert Eagle":{buy:37000,sell:50000},
+        "Harpoon":{buy:200000,sell:250000},
+        "Qsz-92":{buy:70000,sell:220000},
+        "Dual 92G Berettas":900000,
+        "Flamethrower":{buy:2500000,sell:2700000},
 
         "Toilet Paper":1400000,
         "Dog Poop":1500000,
@@ -633,7 +629,7 @@
             nameElement.style.border = "dashed black";
         } else if (sellPrice && amount >= sellPrice) {
             nameElement.style.border = "solid red";
-        }  else if (!lookupPrice) {
+        }  else if (!lookupPrice && !savedPrice) {
             nameElement.style.border = "dashed grey";
         } else {
             nameElement.style.border = "none";
@@ -756,12 +752,22 @@
     }
 
     function highlightArmor() {
-        let containers = document.querySelectorAll("li.buy-show-item-info, .show-item-info");
+        //, div.details-wrap
+        let containers = document.querySelectorAll('li.buy-show-item-info, .show-item-info');
 
         for (let c of containers) {
             highlightArmorContainer(c);
         }
         
+    }
+
+    function extractStatValue(container,selector) {
+        let element = container.querySelector(selector)
+        if (!element) {
+            return 0;
+        }
+        element = element.parentElement;
+        return parseFloat(cleanNumber(element.innerText));
     }
 
     function highlightArmorContainer(container) {
@@ -791,23 +797,28 @@
             priceElement = foundElement.querySelector(".price");
         }
 
-        let armorElement = container.querySelector(".bonus-attachment-item-defence-bonus")
-        if (!armorElement) { return;}
-        armorElement = armorElement.parentElement;
+        let armor = extractStatValue(container,".bonus-attachment-item-defence-bonus");
+        let damage = extractStatValue(container,".bonus-attachment-item-damage-bonus");
+        let accuracy = extractStatValue(container,".bonus-attachment-item-accuracy-bonus");
+        
+        let totalStats = armor + damage + accuracy;
 
-        if (!nameElement || !priceElement || !armorElement) { return; }
+        if (totalStats == 0) { return;}
+
+        console.log(totalStats);
+
+        if (!nameElement || !priceElement) { return; }
         let name = nameElement.innerText.replace("The ","");
         let price = toNumber(priceElement.innerText);
-        let armor = parseFloat(cleanNumber(armorElement.innerText));
 
         let lookupPrice = priceMapping[name];
         if (!lookupPrice || typeof lookupPrice != "object" ) { return ;}
-        let armorPrices = lookupPrice.armorPrices;
-        if (!armorPrices) { return ;}
+        let prices = lookupPrice.statPrices;
+        if (!prices) { return ;}
         
         let worthBuying = false;
-        for (let entry of armorPrices) {
-            if (armor >= entry.armor) {
+        for (let entry of prices) {
+            if (totalStats >= entry.stat) {
                 if (price <= entry.value * 0.9) {
                     priceElement.style.border = "solid green";
                     worthBuying = true;
