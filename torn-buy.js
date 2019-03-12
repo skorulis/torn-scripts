@@ -33,7 +33,7 @@
         "Dahlia":{buy:2600,sell:3050},
         "Crocus":8600,
         "Banana Orchid":9100,
-        "Ceibo Flower":45500,
+        "Ceibo Flower":40500,
         "Edelweiss":44000,
         "Orchid":22000,
         "Heather":48000,
@@ -46,7 +46,7 @@
         "Chamois Plushie":{buy:50000,sell:55000},
         "Jaguar Plushie":{buy:16000,sell:17500},
         "Kitten Plushie":{buy:500,sell:700},
-        "Lion Plushie":{buy:70000,sell:77300},
+        "Lion Plushie":{buy:66000,sell:77300},
         "Monkey Plushie":50000,
         "Nessie Plushie":46500,
         "Panda Plushie":{buy:75000,sell:79000},
@@ -185,7 +185,7 @@
         "Christmas Express":600000,
         "Oriental Log":700000,
         "Mini Sleigh":{buy:600000,sell:950000},
-        "Pack of Trojans":{buy:"30000000",sell:45000000},
+        "Pack of Trojans":{buy:30000000,sell:45000000},
 
 
         "Simple Virus":{buy:1000,sell:2500},
@@ -219,8 +219,8 @@
         "Santa Trousers":200000,
 
 
-        "Gold Watch":400,
-        "Gold Ring":400,
+        "Gold Watch":600,
+        "Gold Ring":600,
         "Plastic Watch":400,
         "Sapphire Ring":600,
         "Plain Silver Ring":500,
@@ -234,7 +234,7 @@
         "Pepper Spray":1200,
         "Ninja Stars":2500,
         "Grenade":6500,
-        "Fireworks":7500,
+        "Fireworks":6500,
         "Stick Grenade":7800,
         "Claymore Mine":11500,
         "HEG":14000,
@@ -353,8 +353,8 @@
         "Flak Jacket":{buy:1000,sell:5000},
         "Police Vest":{buy:3000,sell:10000},
         "Hiking Boots":{buy:3000,sell:10000},
-        "Construction Helmet":{buy:20000,sell:40000},
-        "Bulletproof Vest":{buy:35000,sell:50000},
+        "Construction Helmet":{buy:18000,sell:40000},
+        "Bulletproof Vest":{buy:33000,sell:50000},
         "Full Body Armor":{buy:40000,sell:70000},
         "Safety Boots":{buy:70000,sell:92000},
         "WWII Helmet":{buy:100000,sell:150000},
@@ -420,7 +420,15 @@
                 {stat:42,value:50000000},
             ]
         },
-        "Liquid Body Armor":6500000,
+        "Liquid Body Armor":{
+        	buy:6500000,
+        	sell:7700000,
+        	statPrices:[
+        		{stat:41.5,value:7500000},
+        		{stat:42.0,value:8000000},
+        		{stat:42.5,value:9000000}
+        	]
+        	},
         "Motorcycle Helmet":{
             buy:10000000,
             sell:12000000,
@@ -429,11 +437,18 @@
                 {stat:32.0,value:20000000},
                 {stat:32.1,value:22000000},
                 {stat:32.7,value:60000000},
-                
-                
             ]
         },
-        "Flexible Body Armor":{buy:10000000,sell:13000000},
+        "Flexible Body Armor":{
+	        buy:10000000,
+	        sell:13000000,
+	        statPrices:[
+                {stat:43.0,value:12000000},
+                {stat:44.0,value:15000000},
+                {stat:44.5,value:20000000},
+                {stat:45.0,value:30000000},
+	        ]
+	        },
 
         "Butterfly Knife":"ignore",
         "Hammer":"ignore",
@@ -553,9 +568,9 @@
         "Dual 92G Berettas":900000,
         "Flamethrower":{buy:2500000,sell:2700000},
 
-        "Toilet Paper":1400000,
-        "Dog Poop":1500000,
-        "Stink Bombs":1500000,
+        "Toilet Paper":1300000,
+        "Dog Poop":1350000,
+        "Stink Bombs":1400000,
         "Horse's Head":1500000,
         "Small Explosive Device":2400000,
         "Business Class Ticket":4500000,
@@ -646,8 +661,7 @@
 
     function hideGarbage() {
         hideItem("collectibles")
-        hideItem("cars")
-        
+
         let titles = document.querySelectorAll("li.ttl");
         if (!titles) { return; }
         for (let x of titles) {
@@ -665,7 +679,7 @@
     let lastBoughtItems = Array();
 
     function findNextBuyButton() {
-        let allButtons = document.querySelectorAll("a.yes-buy.t-blue"); 
+        let allButtons = document.querySelectorAll("a.yes-buy.t-blue");
 
         for (let i = allButtons.length - 1; i >= 0; --i) {
             let buyButton = allButtons[i];
@@ -723,7 +737,7 @@
         }
 
     }
-    
+
     function priceKey(itemName) {
         return "tcp-" + itemName
     }
@@ -737,7 +751,7 @@
 
         let nameElement = priceContainer.querySelector("div.clearfix.info-wrap > div > div > span.info-msg > span");
         let priceElement = priceContainer.querySelector("div.info-content > div.clearfix.info-wrap > ul > li.t-left.graphs-stock.c-pointer > div.desc");
-        
+
         if (!nameElement || !priceElement) {
             return;
         }
@@ -758,7 +772,7 @@
         for (let c of containers) {
             highlightArmorContainer(c);
         }
-        
+
     }
 
     function extractStatValue(container,selector) {
@@ -781,7 +795,7 @@
             while(currentElement.className != "first") {
                 currentElement = currentElement.previousSibling;
                 if (!currentElement) { return ;}
-                
+
                 if (currentElement.nodeName == "#text") {
                     continue;
                 }
@@ -800,7 +814,7 @@
         let armor = extractStatValue(container,".bonus-attachment-item-defence-bonus");
         let damage = extractStatValue(container,".bonus-attachment-item-damage-bonus");
         let accuracy = extractStatValue(container,".bonus-attachment-item-accuracy-bonus");
-        
+
         let totalStats = armor + damage + accuracy;
 
         if (totalStats == 0) { return;}
@@ -815,7 +829,7 @@
         if (!lookupPrice || typeof lookupPrice != "object" ) { return ;}
         let prices = lookupPrice.statPrices;
         if (!prices) { return ;}
-        
+
         let worthBuying = false;
         for (let entry of prices) {
             if (totalStats >= entry.stat) {
@@ -833,7 +847,7 @@
             let id = idElement.dataset.armoury || idElement.getAttribute("armouryid");
             if (id) {
                 window.localStorage.setItem("arm-id-" + id,Date());
-            }            
+            }
         }
     }
 
@@ -843,7 +857,7 @@
 
         for (let item of allItems) {
             let itemId = item.dataset.armoury || item.getAttribute("armouryid");
-            
+
             if (!itemId) {
                 continue;
             }
