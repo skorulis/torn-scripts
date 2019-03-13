@@ -18,13 +18,9 @@
 
 [Wink](https://www.torn.com/profiles.php?XID=2196406#/) 3.38
 
-[Q4u6](https://www.torn.com/profiles.php?XID=2190803#/)
+[Q4u6](https://www.torn.com/profiles.php?XID=2190803#/) 2.42
 
-[SEVYN](https://www.torn.com/profiles.php?XID=2198866#/)
-
-[1906](https://www.torn.com/profiles.php?XID=2190663#/)
-
-[Aromiden](https://www.torn.com/profiles.php?XID=2188688#/)
+[Aromiden](https://www.torn.com/profiles.php?XID=2188688#/) 3.14
 
 [Golems](https://www.torn.com/profiles.php?XID=2186065#/)
 
@@ -32,10 +28,14 @@
 
 [Mirrorwolf](https://www.torn.com/profiles.php?XID=2188053#/) ???
 
-[MsCrackles](https://www.torn.com/profiles.php?XID=2183483#/)
+[MsCrackles](https://www.torn.com/profiles.php?XID=2183483#/) 2.20
 
 [xXTrashCan420Xx](https://www.torn.com/profiles.php?XID=2185967#/)
 
+
+[1906](https://www.torn.com/profiles.php?XID=2190663#/) Need faster internet or more speed
+
+[SEVYN](https://www.torn.com/profiles.php?XID=2198866#/) High Strength and dex
 
 [Aemondra](https://www.torn.com/profiles.php?XID=2195833#/) HITS HARD
 
