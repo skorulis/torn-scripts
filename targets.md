@@ -1,19 +1,19 @@
-[https://www.torn.com/profiles.php?XID=2191937#/](Fabishi) 3.80 respect. Can't hurt me
+[Fabishi](https://www.torn.com/profiles.php?XID=2191937#/) 3.80 respect. Can't hurt me
 
-[https://www.torn.com/profiles.php?XID=2191574#/](Dannymid) 3.69. Fast but weak
+[Dannymid](https://www.torn.com/profiles.php?XID=2191574#/) 3.69. Fast but weak
 
-[https://www.torn.com/profiles.php?XID=2202766#/](jowhatup)
+[jowhatup](https://www.torn.com/profiles.php?XID=2202766#/) 3.6. Hard to hit
 
-[https://www.torn.com/profiles.php?XID=2202521#/](koranjen)
+[koranjen](https://www.torn.com/profiles.php?XID=2202521#/) 3.22
 
-[https://www.torn.com/profiles.php?XID=2223290#/](LadySascha)
+[LadySascha](https://www.torn.com/profiles.php?XID=2223290#/) 1.79
 
-[https://www.torn.com/profiles.php?XID=2203119#/](Xune)
+[Xune](https://www.torn.com/profiles.php?XID=2203119#/)
 
-[https://www.torn.com/profiles.php?XID=2220382#/](TheFinalDestiny)
+[TheFinalDestiny](https://www.torn.com/profiles.php?XID=2220382#/) 2.23
 
-[https://www.torn.com/profiles.php?XID=2196999#/](-Ether-)
+[-Ether-](https://www.torn.com/profiles.php?XID=2196999#/) 1.92
 
-[https://www.torn.com/profiles.php?XID=2194446#/](Sinnas)
+[Sinnas](https://www.torn.com/profiles.php?XID=2194446#/) 2.33
 
-[https://www.torn.com/profiles.php?XID=2196406#/](Wink)
+[Wink](https://www.torn.com/profiles.php?XID=2196406#/) 3.38
