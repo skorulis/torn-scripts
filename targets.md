@@ -22,5 +22,21 @@
 
 [SEVYN](https://www.torn.com/profiles.php?XID=2198866#/)
 
+[1906](https://www.torn.com/profiles.php?XID=2190663#/)
+
+[Aromiden](https://www.torn.com/profiles.php?XID=2188688#/)
+
+[Golems](https://www.torn.com/profiles.php?XID=2186065#/)
+
+[LUNATIC_](https://www.torn.com/profiles.php?XID=2188733#/)
+
+[Mirrorwolf](https://www.torn.com/profiles.php?XID=2188053#/) ???
+
+[MsCrackles](https://www.torn.com/profiles.php?XID=2183483#/)
+
+[xXTrashCan420Xx](https://www.torn.com/profiles.php?XID=2185967#/)
+
 
 [Aemondra](https://www.torn.com/profiles.php?XID=2195833#/) HITS HARD
+
+
