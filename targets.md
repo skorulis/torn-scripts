@@ -4,11 +4,15 @@
 
 [jowhatup](https://www.torn.com/profiles.php?XID=2202766#/) 3.6. Hard to hit
 
+[Boonie](https://www.torn.com/profiles.php?XID=901249#/) 3.30. Easy
+
+[Wink](https://www.torn.com/profiles.php?XID=2196406#/) 3.38
+
 [koranjen](https://www.torn.com/profiles.php?XID=2202521#/) 3.22
 
 [LadySascha](https://www.torn.com/profiles.php?XID=2223290#/) 1.79
 
-[Xune](https://www.torn.com/profiles.php?XID=2203119#/)
+[Xune](https://www.torn.com/profiles.php?XID=2203119#/) 2.35
 
 [TheFinalDestiny](https://www.torn.com/profiles.php?XID=2220382#/) 2.23
 
@@ -16,27 +20,37 @@
 
 [Sinnas](https://www.torn.com/profiles.php?XID=2194446#/) 2.33
 
-[Wink](https://www.torn.com/profiles.php?XID=2196406#/) 3.38
-
 [Q4u6](https://www.torn.com/profiles.php?XID=2190803#/) 2.42
 
 [Aromiden](https://www.torn.com/profiles.php?XID=2188688#/) 3.14
-
-[Golems](https://www.torn.com/profiles.php?XID=2186065#/)
-
-[LUNATIC_](https://www.torn.com/profiles.php?XID=2188733#/)
 
 [Mirrorwolf](https://www.torn.com/profiles.php?XID=2188053#/) ???
 
 [MsCrackles](https://www.torn.com/profiles.php?XID=2183483#/) 2.20
 
+
+
+
+Unhit
+------
+
+[Golems](https://www.torn.com/profiles.php?XID=2186065#/)
 [xXTrashCan420Xx](https://www.torn.com/profiles.php?XID=2185967#/)
 
+
+
+Too hard
+----
+
+[LUNATIC_](https://www.torn.com/profiles.php?XID=2188733#/) Hits super hard and is fast as well
 
 [1906](https://www.torn.com/profiles.php?XID=2190663#/) Need faster internet or more speed
 
 [SEVYN](https://www.torn.com/profiles.php?XID=2198866#/) High Strength and dex
 
 [Aemondra](https://www.torn.com/profiles.php?XID=2195833#/) HITS HARD
+
+[Berle](https://www.torn.com/profiles.php?XID=2194891#/) Too fast and too much damage.
+
 
 

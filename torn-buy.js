@@ -1,7 +1,7 @@
     // ==UserScript==
-    // @name         Item market experiment
+    // @name         Item market helper
     // @namespace    http://tampermonkey.net/
-    // @version      0.1
+    // @version      0.2
     // @description  Makes buying items in torn easier
     // @author       Alex Skorulis
     // @match        https://www.torn.com/imarket.php
@@ -13,7 +13,7 @@
     //Map item names to prices
     let priceMapping = {
         "Empty Blood Bag":{buy:17500,sell:18500},
-        "Morphine":{buy:48500,sell:51500},
+        "Morphine":{buy:50000,sell:51500},
         "Small First Aid Kit":{buy:19000,sell:21000},
         "First Aid Kit":{buy:30000,sell:32000},
         "Blood Bag : O+":27500,
@@ -31,7 +31,7 @@
         "Dozen Roses":500,
         "Single Red Rose":500,
         "Dahlia":{buy:2600,sell:3050},
-        "Crocus":8600,
+        "Crocus":8200,
         "Banana Orchid":9100,
         "Ceibo Flower":40500,
         "Edelweiss":44000,
@@ -43,18 +43,18 @@
         "Tribulus Omanense":75000,
 
         "Camel Plushie":{buy:96000,sell:100000},
-        "Chamois Plushie":{buy:50000,sell:55000},
+        "Chamois Plushie":{buy:48000,sell:55000},
         "Jaguar Plushie":{buy:16000,sell:17500},
-        "Kitten Plushie":{buy:500,sell:700},
+        "Kitten Plushie":{buy:700,sell:820},
         "Lion Plushie":{buy:66000,sell:77300},
-        "Monkey Plushie":50000,
-        "Nessie Plushie":46500,
+        "Monkey Plushie":47000,
+        "Nessie Plushie":43500,
         "Panda Plushie":{buy:75000,sell:79000},
         "Red Fox Plushie":46000,
-        "Sheep Plushie":500,
-        "Stingray Plushie":{buy:9200,sell:10500},
+        "Sheep Plushie":550,
+        "Stingray Plushie":{buy:8800,sell:10500},
         "Teddy Bear Plushie":500,
-        "Wolverine Plushie":{buy:8500,sell:9800},
+        "Wolverine Plushie":{buy:8000,sell:9800},
 
 
 
@@ -63,13 +63,13 @@
         "Box of Sweet Hearts":500,
         "Bag of Chocolate Kisses":500,
         "Bag of Bon Bons":500,
-        "Lollipop":500,
+        "Lollipop":600,
         "Big Box of Chocolate Bars":{buy:3000,sell:3300},
         "Box of Bon Bons":{buy:5000,sell:6500},
         "Bag of Candy Kisses":{buy:25000,sell:32000},
         "Bag of Tootsie Rolls":{buy:45000,sell:50000},
-        "Bag of Chocolate Truffles":{buy:98000,sell:102000},
-        "Bag of Reindeer Droppings":{buy:98000,sell:102000},
+        "Bag of Chocolate Truffles":{buy:105000,sell:115000},
+        "Bag of Reindeer Droppings":{buy:105000,sell:115000},
         "Bag of Bloody Eyeballs":90000,
         "Jawbreaker":240000,
         "Pixie Sticks":240000,
@@ -101,10 +101,10 @@
 
 
 
-        "Can of Munster":{buy:1950000,sell:2100000},
-        "Can of Santa Shooters":{buy:1950000,sell:2100000},
-        "Can of Red Cow":{buy:2250000,sell:2400000},
-        "Can of Rockstar Rudolph":{buy:2250000,sell:2400000},
+        "Can of Munster":{buy:1850000,sell:2100000},
+        "Can of Santa Shooters":{buy:1850000,sell:2100000},
+        "Can of Red Cow":{buy:2150000,sell:2400000},
+        "Can of Rockstar Rudolph":{buy:2150000,sell:2400000},
         "Can of Tourine Elite":{buy:3300000,sell:3500000},
         "Can of X-MASS":{buy:3300000,sell:3500000},
 
@@ -130,9 +130,9 @@
         "Pele Charm":1800,
         "Soccer Ball":{buy:2500,sell:5000},
         "Steel Drum":2500,
-        "Pack of Cuban Cigars":300,
-        "Box of Tissues":250,
-        "Bolt Cutters":350,
+        "Pack of Cuban Cigars":400,
+        "Box of Tissues":350,
+        "Bolt Cutters":400,
         "Empty Box":300,
         "Soap on a Rope":500,
         "Crazy Straw":350,
@@ -158,7 +158,7 @@
         "Model Space Ship":{buy:30000,sell:40000},
         "Stick of Dynamite":{buy:35000,sell:50000},
         "Ship in a Bottle":50000,
-        "Polar Bear Toy":{buy:50000,sell:70000},
+        "Polar Bear Toy":{buy:30000,sell:70000},
         "Sprig of Holly":{buy:50000,sell:70000},
         "Printing Paper":40000,
         "Advent Calendar":{buy:70000,sell:100000},
@@ -188,16 +188,16 @@
         "Pack of Trojans":{buy:30000000,sell:45000000},
 
 
-        "Simple Virus":{buy:1000,sell:2500},
+        "Simple Virus":{buy:1500,sell:2500},
         "Tunnelling Virus":15000,
         "Stealth Virus":{buy:200000,sell:240000},
 
-        "Jacket":400,
+        "Jacket":500,
         "Pair of Trainers":300,
         "Tank Top":300,
         "Bandana":700,
         "Diving Gloves":2500,
-        "Mediocre T-Shirt":{buy:5000,sell:8500},
+        "Mediocre T-Shirt":{buy:6500,sell:8500},
         "Speedo":3000,
         "Sweater":6500,
         "Flippers":{buy:7000,sell:9000},
@@ -230,20 +230,20 @@
         "Diamond Ring":4000,
         "Pearl Necklace":25000,
 
-        "Brick":500,
+        "Brick":550,
         "Pepper Spray":1200,
         "Ninja Stars":2500,
         "Grenade":6500,
-        "Fireworks":6500,
+        "Fireworks":6000,
         "Stick Grenade":7800,
         "Claymore Mine":11500,
         "HEG":14000,
         "Trout":14000,
         "Throwing Knife":28000,
         "Snowball":33000,
-        "Tear Gas":41000,
-        "Flash Grenade":66500,
-        "Smoke Grenade":{buy:120000,sell:130000},
+        "Tear Gas":35000,
+        "Flash Grenade":56500,
+        "Smoke Grenade":{buy:90000,sell:130000},
         "Molotov Cocktail":{buy:185000,sell:225000},
         "Melatonin":285000,
         "Tyrosine":580000,
@@ -259,7 +259,7 @@
         "Book of Carols":10000000,
         "Feathery Hotel Coupon":14000000,
 
-        "Personal Computer":250,
+        "Personal Computer":350,
         "MP3 Player":400,
         "Pack of Blank CDs":400,
         "Hard Drive":400,
@@ -311,10 +311,10 @@
         "Ford Focus RS":30000,
         "Subaru Impreza STI":28000,
         "Audi TT Quattro":55000,
-        "Pontiac Firebird":59000,
+        "Pontiac Firebird":58500,
         "Vauxhall Astra GSI":8500,
         "Fiat Punto":8000,
-        "BMW Z8":80000,
+        "BMW Z8":79500,
         "Dodge Charger":69000,
         "Porsche 911 GT3":60000,
         "Ford GT40":120000,
@@ -327,7 +327,7 @@
         "Ferrari 458":860000,
         "Aston Martin One-77":750000,
         "Lexus LFA":2000000,
-        "Mitsubishi Evo X":2800000,
+        "Mitsubishi Evo X":1600000,
         "Sierra Cosworth":15000000,
 
         "Gold Noble Coin":1680000,
@@ -518,7 +518,7 @@
         "Thompson":{buy:2000,sell:15000},
         "Vektor CR-21":{buy:6500,sell:7000},
         "Ithaca 37":{buy:7000,sell:8000},
-        "MP5k":{buy:5000,sell:10000},
+        "MP5k":{buy:4000,sell:10000},
         "Bushmaster Carbon 15 Type 21s":{buy:10000,sell:12000},
         "AK-47":{buy:5000,sell:13000},
         "XM8 Rifle":{buy:9000,sell:12000},
@@ -542,9 +542,9 @@
         "Swiss Army SG 550":{buy:5000000,sell:7000000},
 
         "Flare Gun":{buy:0,sell:2000},
-        "Lorcin 380":1,
-        "Raven MP25":1,
-        "Glock 17":1,
+        "Lorcin 380":"ignore",
+        "Raven MP25":"ignore",
+        "Glock 17":"ignore",
         "Taurus":1,
         "Springfield 1911-A1":1,
         "Ruger 22/45":1,
@@ -723,7 +723,7 @@
             buyPrice = lookupPrice.buy;
         }
 
-        if (itemPrice <= buyPrice) {
+        if (itemPrice <= buyPrice || itemPrice <= 500) {
             buyButton.parentElement.parentElement.style.display = "none";
             buyButton.click();
             return;
