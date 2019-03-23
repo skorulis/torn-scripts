@@ -26,7 +26,7 @@
         "Blood Bag : AB-":63000,
         "Neumune Tablet":{buy:5000000,sell:6500000},
 
-        "Bunch of Flowers":300,
+        "Bunch of Flowers":400,
         "Bunch of Black Roses":500,
         "Dozen Roses":500,
         "Single Red Rose":500,
@@ -51,23 +51,23 @@
         "Nessie Plushie":43500,
         "Panda Plushie":{buy:75000,sell:79000},
         "Red Fox Plushie":46000,
-        "Sheep Plushie":550,
+        "Sheep Plushie":600,
         "Stingray Plushie":{buy:8800,sell:10500},
-        "Teddy Bear Plushie":500,
+        "Teddy Bear Plushie":600,
         "Wolverine Plushie":{buy:8000,sell:9800},
 
 
 
-        "Box of Chocolate Bars":500,
-        "Box of Extra Strong Mints":500,
-        "Box of Sweet Hearts":500,
-        "Bag of Chocolate Kisses":500,
-        "Bag of Bon Bons":500,
+        "Box of Chocolate Bars":600,
+        "Box of Extra Strong Mints":600,
+        "Box of Sweet Hearts":600,
+        "Bag of Chocolate Kisses":600,
+        "Bag of Bon Bons":600,
         "Lollipop":600,
         "Big Box of Chocolate Bars":{buy:3000,sell:3300},
-        "Box of Bon Bons":{buy:5000,sell:6500},
-        "Bag of Candy Kisses":{buy:25000,sell:32000},
-        "Bag of Tootsie Rolls":{buy:45000,sell:50000},
+        "Box of Bon Bons":{buy:5200,sell:6500},
+        "Bag of Candy Kisses":{buy:29000,sell:32000},
+        "Bag of Tootsie Rolls":{buy:49000,sell:50000},
         "Bag of Chocolate Truffles":{buy:105000,sell:115000},
         "Bag of Reindeer Droppings":{buy:105000,sell:115000},
         "Bag of Bloody Eyeballs":90000,
@@ -115,7 +115,7 @@
         "LSD":{buy:60000,sell:65000},
         "Ecstasy":{buy:63000,sell:76000},
         "Opium":{buy:75000,sell:85000},
-        "PCP":91000,
+        "PCP":85000,
         "Speed":145000,
         "Xanax":{buy:830000,sell:840000},
         "Love Juice":9000000,
@@ -197,7 +197,7 @@
         "Tank Top":300,
         "Bandana":700,
         "Diving Gloves":2500,
-        "Mediocre T-Shirt":{buy:6500,sell:8500},
+        "Mediocre T-Shirt":{buy:7500,sell:9000},
         "Speedo":3000,
         "Sweater":6500,
         "Flippers":{buy:7000,sell:9000},
@@ -207,32 +207,21 @@
         "Kabuki Mask":10000,
         "Snorkel":12000,
         "Wetsuit":18000,
-        "Mountie Hat":25000,
-        "Old Lady Mask":35000,
-        "Young Lady Mask":35000,
-        "Nun Mask":41000,
-        "Exotic Gentleman Mask":32000,
-        "Moustache Man Mask":35000,
-        "Scarred Man Mask":35000,
-        "Festive Socks":45000,
-        "Ginger Kid Mask":50000,
-        "Santa Trousers":200000,
-
 
         "Gold Watch":600,
         "Gold Ring":600,
-        "Plastic Watch":400,
+        "Plastic Watch":600,
         "Sapphire Ring":600,
         "Plain Silver Ring":500,
-        "Gold Necklace":400,
+        "Gold Necklace":600,
         "Silver Necklace":800,
         "Stainless Steel Watch":1300,
         "Diamond Ring":4000,
-        "Pearl Necklace":25000,
+        "Pearl Necklace":30000,
 
         "Brick":550,
-        "Pepper Spray":1200,
-        "Ninja Stars":2500,
+        "Pepper Spray":1100,
+        "Ninja Stars":2600,
         "Grenade":6500,
         "Fireworks":6000,
         "Stick Grenade":7800,
@@ -249,7 +238,7 @@
         "Tyrosine":580000,
         "Epinephrine":850000,
         "Serotonin":1200000,
-        "Book":1900000,
+        "Book":1500000,
 
         "Large Suitcase":9500000,
 
@@ -259,7 +248,7 @@
         "Book of Carols":10000000,
         "Feathery Hotel Coupon":14000000,
 
-        "Personal Computer":350,
+        "Personal Computer":450,
         "MP3 Player":400,
         "Pack of Blank CDs":400,
         "Hard Drive":400,
@@ -655,7 +644,7 @@
         let actionElements = document.querySelectorAll(".desc .act")
         for (let element of actionElements) {
             let stockNumber = element.parentElement.querySelector(".stock .instock").textContent;
-            element.querySelector("input").value = stockNumber;
+            element.querySelector("input").value = toNumber(stockNumber);
         }
     }
 

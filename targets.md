@@ -10,7 +10,9 @@
 
 [koranjen](https://www.torn.com/profiles.php?XID=2202521#/) 3.22
 
-[LadySascha](https://www.torn.com/profiles.php?XID=2223290#/) 1.79
+[Aromiden](https://www.torn.com/profiles.php?XID=2188688#/) 3.14
+
+[xXTrashCan420Xx](https://www.torn.com/profiles.php?XID=2185967#/) 3.11 Can't hurt me 
 
 [Xune](https://www.torn.com/profiles.php?XID=2203119#/) 2.35
 
@@ -22,25 +24,27 @@
 
 [Q4u6](https://www.torn.com/profiles.php?XID=2190803#/) 2.42
 
-[Aromiden](https://www.torn.com/profiles.php?XID=2188688#/) 3.14
-
-[Mirrorwolf](https://www.torn.com/profiles.php?XID=2188053#/) ???
+[Mirrorwolf](https://www.torn.com/profiles.php?XID=2188053#/) 2.39
 
 [MsCrackles](https://www.torn.com/profiles.php?XID=2183483#/) 2.20
 
+[Golems](https://www.torn.com/profiles.php?XID=2186065#/) 2.17
+
+[LadySascha](https://www.torn.com/profiles.php?XID=2223290#/) 1.79
 
 
 
 Unhit
 ------
 
-[Golems](https://www.torn.com/profiles.php?XID=2186065#/)
-[xXTrashCan420Xx](https://www.torn.com/profiles.php?XID=2185967#/)
+
 
 
 
 Too hard
 ----
+
+[Aztlan](https://www.torn.com/profiles.php?XID=2233656#/) 4.52 DEX whore
 
 [LUNATIC_](https://www.torn.com/profiles.php?XID=2188733#/) Hits super hard and is fast as well
 
