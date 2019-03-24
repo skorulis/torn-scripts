@@ -37,9 +37,13 @@
 Unhit
 ------
 
+[furfieff](https://www.torn.com/profiles.php?XID=2195530#/) Low activity
+[Ryuk100](https://www.torn.com/profiles.php?XID=2210612#/) Only 60 days of activity
+[EatingPies](https://www.torn.com/profiles.php?XID=2104207#/) Lots of activity, but mostly attacks. 20 days activity
+[BurntBacon](https://www.torn.com/profiles.php?XID=2097308) 66 days of activity, Might be tough
 
-
-
+[Barroco](https://www.torn.com/profiles.php?XID=2179826#/) Low drug use, 90 days activity
+[Ballas063](https://www.torn.com/profiles.php?XID=2167145#/) LSD user. 91 days activity
 
 Too hard
 ----
