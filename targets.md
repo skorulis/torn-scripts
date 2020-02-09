@@ -1,14 +1,30 @@
-[RomanCat](https://www.torn.com/profiles.php?XID=434457#/) 3.89 12/2019
+[The_Cowboy71](https://www.torn.com/profiles.php?XID=24021#/) Evenly matched. Likely to beat me.
 
-[forsan](https://www.torn.com/profiles.php?XID=132893#/) Mugged $2.5Mil 3.1. Does a bit of damage but wasn't terribly close
+[XOVOX](https://www.torn.com/profiles.php?XID=2052037#/) 5.03 Very close fight. Could go either way
 
-[giblet17](https://www.torn.com/profiles.php?XID=793797#/)3.28 12/2019
+[Johnny14](https://www.torn.com/profiles.php?XID=724755#/) 4.41 No damage 02/2020
 
-[BooBooKittyPhuc](https://www.torn.com/profiles.php?XID=2200545#/) 3.05 12/2019
+[Elsje](https://www.torn.com/profiles.php?XID=456078#/) 4.0. 02/2020 Can't hurt me
 
-[SIeepyGary](https://www.torn.com/profiles.php?XID=2200547#/) 2.04 12/2019
+[forsan](https://www.torn.com/profiles.php?XID=132893#/) 3.49. Mugged $860K. Does a bit of damage but wasn't terribly close
 
-[jayslim](https://www.torn.com/profiles.php?XID=868365#/) 2.87 Too hard to hit for now. Maybe when I have 1 mil speed
+[AlwaysTangled](https://www.torn.com/profiles.php?XID=2097129#/) 3.47 Does < 10 damage. Hard to hit but can be done
+
+[RomanCat](https://www.torn.com/profiles.php?XID=434457#/) 3.29 02/2020 Minor damage
+
+[BooBooKittyPhuc](https://www.torn.com/profiles.php?XID=2200545#/) 3.30 02/2020 Uses smoke grenades
+
+[giblet17](https://www.torn.com/profiles.php?XID=793797#/)3.11 20/2020 Does no damage
+
+[2127](https://www.torn.com/profiles.php?XID=2165528#/) 2.61. One hit kill 02/2020
+
+[BillyR](https://www.torn.com/profiles.php?XID=1012909#/) 2.47 / $0 mugged. Does a little damage. 02/2020
+
+[Atum86](https://www.torn.com/profiles.php?XID=2081550#/) 2.69 02/2020 Does a lot of damage, but not too hard
+
+[SIeepyGary](https://www.torn.com/profiles.php?XID=2200547#/) 2.45 01/2020
+
+[jayslim](https://www.torn.com/profiles.php?XID=868365#/) 2.65 02/2020 No damage 
 
 [jOeFiSh](https://www.torn.com/profiles.php?XID=243152#/) 2.13 Does minor damage
 
@@ -17,6 +33,10 @@
 **[Primo](https://www.torn.com/profiles.php?XID=435198#/) 2.31. Does a bit of damage, but I do more
 
 [Sysopr](https://www.torn.com/profiles.php?XID=1535841#/) 2.60 Does a small amount of damage
+
+[balman](https://www.torn.com/profiles.php?XID=2185903#/) 2.13 No damage 02/2020
+
+[Axelsson](https://www.torn.com/profiles.php?XID=2102210#/) 2.09 No damage 02/2020
 
 [kinqpinz_Bazaar](https://www.torn.com/profiles.php?XID=692845#/) 1.84 /  $0 mugged. Can't hurt me
 
@@ -170,6 +190,8 @@ No attacks yet
 Low respect
 ---
 
+[Veracity](https://www.torn.com/profiles.php?XID=2086655#/) 1.44. No damage
+[brendabrunette](https://www.torn.com/profiles.php?XID=2193702#/) 1.90
 **[-TRINITY-](https://www.torn.com/profiles.php?XID=2088660#/) 1.72 $0 mugged
 ** [Xiao-Ming](https://www.torn.com/profiles.php?XID=2109001#/) 1.36 $0 mugged. 
 [Des](https://www.torn.com/profiles.php?XID=2043088#/) High dex, hard to hit 1.89 $370,898
@@ -193,28 +215,31 @@ Low respect
 [waterlilly76](https://www.torn.com/profiles.php?XID=2193774#/) 1.29
 [Zanthar](https://www.torn.com/profiles.php?XID=2111545#/) Has spent a lot of time attacking, active but can't hurt me
 [ArkiAngel](https://www.torn.com/profiles.php?XID=2079361#/) 1.87 No damage
+[Skitterboxxed](https://www.torn.com/profiles.php?XID=2084970#/) 1.84 No damage
 
 Unhit
 ------
 
 
-** [Veracity](https://www.torn.com/profiles.php?XID=2086655#/) Should be manageable. 
 
-** [Skitterboxxed](https://www.torn.com/profiles.php?XID=2084970#/) Similar age, less drugs
 
-[brendabrunette](https://www.torn.com/profiles.php?XID=2193702#/) Higher activity but lower drug usage. Same age
 
+
+
+[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) Less drugs. More crime. Looks tough
 
 
 
 Maybe hard
 ----
 
-[XOVOX](https://www.torn.com/profiles.php?XID=2052037#/) Need another 50 days
+[Ashleyy_](https://www.torn.com/profiles.php?XID=2150836#/) 473 days. Huge activity. Lots of attacks. Lots of drugs
+
+
 
 [AustinPowers](https://www.torn.com/profiles.php?XID=2077395#/) Kind of old and lots of crime
 
-[Atum86](https://www.torn.com/profiles.php?XID=2081550#/) Quite a bit older
+
 
 
 
@@ -226,7 +251,7 @@ Maybe hard
 Too hard
 ----
 
-[BillyR](https://www.torn.com/profiles.php?XID=1012909#/) 2.29 $0 mugged. Does a lot of damage. Need 25M def
+[RedWulf](https://www.torn.com/profiles.php?XID=384850#/) Beats me with over 50% health left. 02/2020
 
 
 
