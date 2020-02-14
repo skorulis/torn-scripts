@@ -4,31 +4,43 @@
 
 -----------
 
-[Scors](https://www.torn.com/profiles.php?XID=127803#/) 4.28 Only tried when weak 
+[NeverBackDown](https://www.torn.com/profiles.php?XID=1410454#/) 5.25 ?? 02/2020
+
+[Scors](https://www.torn.com/profiles.php?XID=127803#/) 4.28 Can be hard to hit
 
 [Johnny14](https://www.torn.com/profiles.php?XID=724755#/) 4.41 No damage 02/2020
 
 [Elsje](https://www.torn.com/profiles.php?XID=456078#/) 4.0. 02/2020 Can't hurt me
 
-[just1blackman](https://www.torn.com/profiles.php?XID=1275434#/) 3.35 02/2020
-
 [forsan](https://www.torn.com/profiles.php?XID=132893#/) 3.49. Mugged $860K. Does a bit of damage but wasn't terribly close
 
 [AlwaysTangled](https://www.torn.com/profiles.php?XID=2097129#/) 3.47 Does < 10 damage. Hard to hit but can be done
+
+[just1blackman](https://www.torn.com/profiles.php?XID=1275434#/) 3.35 02/2020
 
 [RomanCat](https://www.torn.com/profiles.php?XID=434457#/) 3.29 02/2020 Minor damage
 
 [BooBooKittyPhuc](https://www.torn.com/profiles.php?XID=2200545#/) 3.30 02/2020 Uses smoke grenades
 
-[giblet17](https://www.torn.com/profiles.php?XID=793797#/)3.11 20/2020 Does no damage
+[giblet17](https://www.torn.com/profiles.php?XID=793797#/)3.11 02/2020 Does no damage
+
+[jeremz](https://www.torn.com/profiles.php?XID=220403#/) 3.01 02/2020 ??
+
+[LCCANADIAN](https://www.torn.com/profiles.php?XID=249457#/) 3.08 02/2020 ??
+
+[jayslim](https://www.torn.com/profiles.php?XID=868365#/) 2.90 02/2020 No damage 
+
+[MrShrimp](https://www.torn.com/profiles.php?XID=1448167#/) 2.71 No damage. 02/2020
 
 [And1baller](https://www.torn.com/profiles.php?XID=1448157#/) 2.97 02/2020
 
 [WaskoFiets](https://www.torn.com/profiles.php?XID=1870737#/) 2.83 No damage 02/2020
 
-[MrShrimp](https://www.torn.com/profiles.php?XID=1448167#/) 2.71 No damage. 02/2020
+[RyanJaii](https://www.torn.com/profiles.php?XID=327505#/) 2.83 A little damage 02/2020
 
 [2127](https://www.torn.com/profiles.php?XID=2165528#/) 2.61. One hit kill 02/2020
+
+[ScurveyDawg](https://www.torn.com/profiles.php?XID=1448215#/) 2.53 No damage
 
 [1-fallen-angel](https://www.torn.com/profiles.php?XID=277796#/) 2.71
 
@@ -38,13 +50,15 @@
 
 [SIeepyGary](https://www.torn.com/profiles.php?XID=2200547#/) 2.45 01/2020
 
-[crazyXGF](https://www.torn.com/profiles.php?XID=1716802#/) 2.47 Does a little damage 02/2020
+[Bezier](https://www.torn.com/profiles.php?XID=2059845#/) 2.22 02/2020
 
-[jayslim](https://www.torn.com/profiles.php?XID=868365#/) 2.65 02/2020 No damage 
+[crazyXGF](https://www.torn.com/profiles.php?XID=1716802#/) 2.47 Does a little damage 02/2020
 
 [jOeFiSh](https://www.torn.com/profiles.php?XID=243152#/) 2.13 Does minor damage
 
 [AD3000](https://www.torn.com/profiles.php?XID=1425945#/) +1.75 mugged $5,000. Didn't hit me
+
+[IROBFORFUN](https://www.torn.com/profiles.php?XID=67712#/) +2.77 Hurts me, but manageable
 
 [Primo](https://www.torn.com/profiles.php?XID=435198#/) 2.31. Does some damage 02/2020
 
@@ -54,7 +68,8 @@
 
 [Axelsson](https://www.torn.com/profiles.php?XID=2102210#/) 2.09 No damage 02/2020
 
-[RyanJaii](https://www.torn.com/profiles.php?XID=327505#/) 2.72 A little damage 02/2020
+[1dvsbstd](https://www.torn.com/profiles.php?XID=200842#/) 2.07 ?? 02/2020
+
 
 [MyWay](https://www.torn.com/profiles.php?XID=1943362#/) $11,065 (+2.41) Can't hurt me, a little hard to hit
 
@@ -62,7 +77,7 @@
 
 [tr4jiK](https://www.torn.com/profiles.php?XID=1533943#/) 2.15 Does a little damage but too hard to hit. Hard on xanax
 
-
+[Bilalli](https://www.torn.com/profiles.php?XID=951347#/) 2.04 02/2020
 
 [Crosspin](https://www.torn.com/profiles.php?XID=502838#/) $49,173 2.67 Does a little damage
 
@@ -159,21 +174,15 @@
 Unhit
 ------
 
-[ScurveyDawg](https://www.torn.com/profiles.php?XID=1448215#/) No damage ??
 
 
 
 
- 
 
 
-[1000PaperCranes](https://www.torn.com/profiles.php?XID=2044871#/) Middle ground
-[IROBFORFUN](https://www.torn.com/profiles.php?XID=67712#/) A little more activity but below in other numbers
-
-[Bezier](https://www.torn.com/profiles.php?XID=2059845#/) High activity but lots of attacks. Looks manageable
 
 [R1P](https://www.torn.com/profiles.php?XID=1399035#/) Lots of drugs
-[1173692](https://www.torn.com/profiles.php?XID=1173692#/) Hard to see activity levels
+
 
 
 
@@ -246,8 +255,6 @@ Maybe hard
 
 
 
-
-[NeverBackDown](https://www.torn.com/profiles.php?XID=1410454#/) Heavy mugger. Too much activity
 [GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449#/) Very high drug use
 [macizo](https://www.torn.com/profiles.php?XID=2065675#/) Lots drugs also attacks
 
@@ -259,7 +266,7 @@ Maybe hard
 Too hard
 ----
 
-
+[GRID](https://www.torn.com/profiles.php?XID=1563202#/) Close, but they do too much damage
 [Luke19ukok](https://www.torn.com/profiles.php?XID=1461981#/) Does a lot of damage
 [RedWulf](https://www.torn.com/profiles.php?XID=384850#/) Beats me with over 50% health left. 02/2020
 
@@ -280,7 +287,9 @@ Travelling
 
 Low respect
 ---
-
+[AahThudd](https://www.torn.com/profiles.php?XID=220703#/) 1.73
+[1173692](https://www.torn.com/profiles.php?XID=1173692#/) 1.80
+[1000PaperCranes](https://www.torn.com/profiles.php?XID=2044871#/) 1.97
 [Quartzite](https://www.torn.com/profiles.php?XID=1979591#/) 1.60
 [-CP-babyface](https://www.torn.com/profiles.php?XID=749798#/) 1.4
 [A_EN](https://www.torn.com/profiles.php?XID=1046288#/) 1.59
