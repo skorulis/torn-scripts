@@ -1,10 +1,20 @@
+[macizo](https://www.torn.com/profiles.php?XID=2065675#/) 5.72 A bit fast, would need to be lucky 02/2020
+
 [The_Cowboy71](https://www.torn.com/profiles.php?XID=24021#/) Evenly matched. Likely to beat me.
 
-[XOVOX](https://www.torn.com/profiles.php?XID=2052037#/) 5.03 Very close fight. Could go either way
+[XOVOX](https://www.torn.com/profiles.php?XID=2052037#/) 5.03 Can 1 hit kill me if I'm unlucky
+
+[NeverBackDown](https://www.torn.com/profiles.php?XID=1410454#/) 5.25 Could be close at full health. Can 1 hit kill me 02/2020
+
+
+
+[MiracleCure](https://www.torn.com/profiles.php?XID=478563#/) 5.39 ?? 02/2020
+
+[Binkel](https://www.torn.com/profiles.php?XID=275695#/) 5.87 Does a lot of damage 02/2020
 
 -----------
 
-[NeverBackDown](https://www.torn.com/profiles.php?XID=1410454#/) 5.25 ?? 02/2020
+[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) 5.96 Does a fair amount of damage 02/2020
 
 [Scors](https://www.torn.com/profiles.php?XID=127803#/) 4.28 Can be hard to hit
 
@@ -12,7 +22,11 @@
 
 [Elsje](https://www.torn.com/profiles.php?XID=456078#/) 4.0. 02/2020 Can't hurt me
 
-[forsan](https://www.torn.com/profiles.php?XID=132893#/) 3.49. Mugged $860K. Does a bit of damage but wasn't terribly close
+[forsan](https://www.torn.com/profiles.php?XID=132893#/) 4.22. Mugged $860K. Does a bit of damage but wasn't terribly close
+
+[-BlackOrchid-](https://www.torn.com/profiles.php?XID=1558112#/) 4.03 Minor damage 02/2020
+
+[SecretxPockets](https://www.torn.com/profiles.php?XID=476975#/) 3.91 02/2020
 
 [AlwaysTangled](https://www.torn.com/profiles.php?XID=2097129#/) 3.47 Does < 10 damage. Hard to hit but can be done
 
@@ -31,6 +45,8 @@
 [jayslim](https://www.torn.com/profiles.php?XID=868365#/) 2.90 02/2020 No damage 
 
 [MrShrimp](https://www.torn.com/profiles.php?XID=1448167#/) 2.71 No damage. 02/2020
+
+[-RiffRaff](https://www.torn.com/profiles.php?XID=19506#/) 2.91 02/2020
 
 [And1baller](https://www.torn.com/profiles.php?XID=1448157#/) 2.97 02/2020
 
@@ -182,14 +198,14 @@ Unhit
 
 
 [R1P](https://www.torn.com/profiles.php?XID=1399035#/) Lots of drugs
-
+[ultimatespaz](https://www.torn.com/profiles.php?XID=2116388#/) A little older than me
 
 
 
 Actives
 -------
 
-https://www.torn.com/profiles.php?XID=2116388#/
+
 
 
 [EmbraceHim](https://www.torn.com/profiles.php?XID=2194846#/) 2.11 Easy
@@ -235,9 +251,6 @@ No attacks yet
 
 [Rain](https://www.torn.com/profiles.php?XID=2303098#/) Should be winnable but has no attacks
 [Judaism](https://www.torn.com/profiles.php?XID=2207330#/) Asshole
-[Slaughter_V2](https://www.torn.com/profiles.php?XID=2258442#/) 1.45
-
-
 
 
 
@@ -245,19 +258,12 @@ No attacks yet
 Maybe hard
 ----
 
-[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) Less drugs. More crime. Looks tough
+
 [Ashleyy_](https://www.torn.com/profiles.php?XID=2150836#/) 473 days. Huge activity. Lots of attacks. Lots of drugs
-
-
 
 [AustinPowers](https://www.torn.com/profiles.php?XID=2077395#/) Kind of old and lots of crime
 
-
-
-
 [GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449#/) Very high drug use
-[macizo](https://www.torn.com/profiles.php?XID=2065675#/) Lots drugs also attacks
-
 
 [--Boudica--](https://www.torn.com/profiles.php?XID=1909709#/) Has played a lot
 
@@ -269,8 +275,6 @@ Too hard
 [GRID](https://www.torn.com/profiles.php?XID=1563202#/) Close, but they do too much damage
 [Luke19ukok](https://www.torn.com/profiles.php?XID=1461981#/) Does a lot of damage
 [RedWulf](https://www.torn.com/profiles.php?XID=384850#/) Beats me with over 50% health left. 02/2020
-
-
 
 
 
@@ -287,6 +291,11 @@ Travelling
 
 Low respect
 ---
+[Goblin](https://www.torn.com/profiles.php?XID=445137#/) LVL 48
+[Mari](https://www.torn.com/profiles.php?XID=448357#/)
+[poongy](https://www.torn.com/profiles.php?XID=751913#/)
+[Baby_Blue_Eyes](https://www.torn.com/profiles.php?XID=64405#/) 2.3
+[xoocer](https://www.torn.com/profiles.php?XID=456470#/) 2.0
 [AahThudd](https://www.torn.com/profiles.php?XID=220703#/) 1.73
 [1173692](https://www.torn.com/profiles.php?XID=1173692#/) 1.80
 [1000PaperCranes](https://www.torn.com/profiles.php?XID=2044871#/) 1.97
