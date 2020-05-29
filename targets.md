@@ -14,13 +14,24 @@
 
 -----------
 
-[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) 5.96 Does a fair amount of damage 02/2020
+
+[Armani](https://www.torn.com/profiles.php?XID=2093407) 5.08 Minor unarmed damage 05/2020
+
+[GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449#/) 4.73 Some damage 05/2020
+
+[DTorn](https://www.torn.com/profiles.php?XID=913457) 4.38 Does some damage 05/2020 
 
 [Scors](https://www.torn.com/profiles.php?XID=127803#/) 4.28 Can be hard to hit
 
 [Johnny14](https://www.torn.com/profiles.php?XID=724755#/) 4.41 No damage 02/2020
 
-[Elsje](https://www.torn.com/profiles.php?XID=456078#/) 4.0. 02/2020 Can't hurt me
+[AustinPowers](https://www.torn.com/profiles.php?XID=2077395#/) 3.99 Does a bit of damage
+
+[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) 3.76 Does a fair amount of damage 05/2020
+
+[Elsje](https://www.torn.com/profiles.php?XID=456078#/) 3.53. 05/2020 Can't hurt me
+
+[santaklaus1991](https://www.torn.com/profiles.php?XID=631514) 3.53 05/2020 Minor damage
 
 [forsan](https://www.torn.com/profiles.php?XID=132893#/) 4.22. Mugged $860K. Does a bit of damage but wasn't terribly close
 
@@ -192,13 +203,7 @@ Unhit
 
 
 
-
-
-
-
-
-[R1P](https://www.torn.com/profiles.php?XID=1399035#/) Lots of drugs
-[ultimatespaz](https://www.torn.com/profiles.php?XID=2116388#/) A little older than me
+[R1P](https://www.torn.com/profiles.php?XID=1399035#/) Lots of drugs A little older than me
 
 
 
@@ -259,18 +264,21 @@ Maybe hard
 ----
 
 
+
+
 [Ashleyy_](https://www.torn.com/profiles.php?XID=2150836#/) 473 days. Huge activity. Lots of attacks. Lots of drugs
 
-[AustinPowers](https://www.torn.com/profiles.php?XID=2077395#/) Kind of old and lots of crime
-
-[GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449#/) Very high drug use
 
 [--Boudica--](https://www.torn.com/profiles.php?XID=1909709#/) Has played a lot
 
 
 
+
+
 Too hard
 ----
+
+[bumbaclot](https://www.torn.com/profiles.php?XID=2033351) Huge attacks and high level. 
 
 [GRID](https://www.torn.com/profiles.php?XID=1563202#/) Close, but they do too much damage
 [Luke19ukok](https://www.torn.com/profiles.php?XID=1461981#/) Does a lot of damage
@@ -291,6 +299,7 @@ Travelling
 
 Low respect
 ---
+
 [Goblin](https://www.torn.com/profiles.php?XID=445137#/) LVL 48
 [Mari](https://www.torn.com/profiles.php?XID=448357#/)
 [poongy](https://www.torn.com/profiles.php?XID=751913#/)
@@ -339,4 +348,4 @@ Low respect
 [Zanthar](https://www.torn.com/profiles.php?XID=2111545#/) Has spent a lot of time attacking, active but can't hurt me
 [ArkiAngel](https://www.torn.com/profiles.php?XID=2079361#/) 1.87 No damage
 [Skitterboxxed](https://www.torn.com/profiles.php?XID=2084970#/) 1.84 No damage
-
+[ultimatespaz](https://www.torn.com/profiles.php?XID=2116388#/) LVL 30
