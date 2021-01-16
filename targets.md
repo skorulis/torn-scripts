@@ -1,47 +1,121 @@
-[macizo](https://www.torn.com/profiles.php?XID=2065675#/) 5.72 A bit fast, would need to be lucky 02/2020
+[LooseZeus](https://www.torn.com/profiles.php?XID=372698) 6.14 Very hard to hit 12/20
 
-[The_Cowboy71](https://www.torn.com/profiles.php?XID=24021#/) Evenly matched. Likely to beat me.
+[Rocker](https://www.torn.com/profiles.php?XID=3782) 6.11 12/20
 
-[XOVOX](https://www.torn.com/profiles.php?XID=2052037#/) 5.03 Can 1 hit kill me if I'm unlucky
+[JoWickerman](https://www.torn.com/profiles.php?XID=1589241) 6.10 12/20
 
-[NeverBackDown](https://www.torn.com/profiles.php?XID=1410454#/) 5.25 Could be close at full health. Can 1 hit kill me 02/2020
+[IceMeld](https://www.torn.com/profiles.php?XID=1626587) 6.03 A lot stronger than me 12/20
+
+[Uncle_Meat](https://www.torn.com/profiles.php?XID=420418) 6.10 Does a lot of damage and hard to hit 12/20
+
+[EsabeL](https://www.torn.com/profiles.php?XID=1095561) 6.07 Hits very hard 12/20
+
+[BloodyX](https://www.torn.com/profiles.php?XID=1298573) 6.02 12/20
+
+[arbuckle](https://www.torn.com/profiles.php?XID=1898310) 6.06 12/20
+
+[-LG-](https://www.torn.com/profiles.php?XID=161994) 6.01 12/20
+
+[Yerek](https://www.torn.com/profiles.php?XID=1062292) Has dual hammers 6.12 12/20
+
+[SinX](https://www.torn.com/profiles.php?XID=1470) 6.08 Fought when weak 12/20
+
+[TheLuvlillypink](https://www.torn.com/profiles.php?XID=1914803) 5.90 Does higher damage than me 12/20
+
+[Stephany](https://www.torn.com/profiles.php?XID=1180026)  5.27 would beat me at full health 10/2020
 
 
 
-[MiracleCure](https://www.torn.com/profiles.php?XID=478563#/) 5.39 ?? 02/2020
+[silwer](https://www.torn.com/profiles.php?XID=1850768) 5.12 Very even 10/2020
 
-[Binkel](https://www.torn.com/profiles.php?XID=275695#/) 5.87 Does a lot of damage 02/2020
+
+
+[Metal_MiIitiA](https://www.torn.com/profiles.php?XID=421260) 5.68 Quite even  10/2020
+
+[AlterBridge](https://www.torn.com/profiles.php?XID=559070) 5.93 Sometimes hard to hit and does high damage 01/21
+
+[warriorhero](https://www.torn.com/profiles.php?XID=739371) 6.02 12/20
+
+[northern_monkey](https://www.torn.com/profiles.php?XID=546640) 4.80 A single crit takes half my health 01/2021
+
 
 -----------
 
+[Ashleyy_](https://www.torn.com/profiles.php?XID=2150836) 5.62 no weapons or armor but still packs a punch 01/21
 
-[Armani](https://www.torn.com/profiles.php?XID=2093407) 5.08 Minor unarmed damage 05/2020
 
-[GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449#/) 4.73 Some damage 05/2020
 
-[DTorn](https://www.torn.com/profiles.php?XID=913457) 4.38 Does some damage 05/2020 
+[DarkAngelLord](https://www.torn.com/profiles.php?XID=1721095) 5.48 Mostly uses crappy melee 01/21
 
-[Scors](https://www.torn.com/profiles.php?XID=127803#/) 4.28 Can be hard to hit
+[thepeon](https://www.torn.com/profiles.php?XID=356975) 5.41 pretty close fight 05/2020
 
-[Johnny14](https://www.torn.com/profiles.php?XID=724755#/) 4.41 No damage 02/2020
+[Sir_Pb](https://www.torn.com/profiles.php?XID=247460) 5.28 Not a big problem 01/2021
 
-[AustinPowers](https://www.torn.com/profiles.php?XID=2077395#/) 3.99 Does a bit of damage
+[macizo](https://www.torn.com/profiles.php?XID=2065675) 5.04 A bit fast, but does little damage 02/2020
 
-[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) 3.76 Does a fair amount of damage 05/2020
+[Richk109](https://www.torn.com/profiles.php?XID=1469191) 4.84 Only has kicks, still hits kind of hard 10/2020
 
-[Elsje](https://www.torn.com/profiles.php?XID=456078#/) 3.53. 05/2020 Can't hurt me
+[IHateVincent](https://www.torn.com/profiles.php?XID=278290) 4.26 12/20
 
-[santaklaus1991](https://www.torn.com/profiles.php?XID=631514) 3.53 05/2020 Minor damage
+[Mobb_Deep](https://www.torn.com/profiles.php?XID=239202) 4.22 12/20
 
-[forsan](https://www.torn.com/profiles.php?XID=132893#/) 4.22. Mugged $860K. Does a bit of damage but wasn't terribly close
+[HitYouOuchie](https://www.torn.com/profiles.php?XID=2084141) 4.01 12/20
 
-[-BlackOrchid-](https://www.torn.com/profiles.php?XID=1558112#/) 4.03 Minor damage 02/2020
+[busted_nose](https://www.torn.com/profiles.php?XID=1596316) 4.18 12/20
 
-[SecretxPockets](https://www.torn.com/profiles.php?XID=476975#/) 3.91 02/2020
+[NeverBackDown](https://www.torn.com/profiles.php?XID=1410454) 4.6 Could be close at full health. Can 1 hit kill me 02/2020
+
+[XOVOX](https://www.torn.com/profiles.php?XID=2052037) 3.94 Fairly high damage
+
+[Armani](https://www.torn.com/profiles.php?XID=2093407) 3.99 Minor unarmed damage (good target for 25 hit kill) 05/2020
+
+[Scors](https://www.torn.com/profiles.php?XID=127803) 3.98 No damage  10/2020
+
+[Shady_Grady](https://www.torn.com/profiles.php?XID=134496) 4.58 12/20
+
+[GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449) 3.84 Some damage 10/2020
+
+[Dammaz_Kron](https://www.torn.com/profiles.php?XID=530505) 3.27 12/20
+
+[DTorn](https://www.torn.com/profiles.php?XID=913457) 4.41 Does some damage 10/2020 
+
+[TorRed](https://www.torn.com/profiles.php?XID=751255) 3.30 Only taken out when weak
+
+[KingOdaBling](https://www.torn.com/profiles.php?XID=746071) 3.30 Moderate damage 10/10
+
+[AustinPowers](https://www.torn.com/profiles.php?XID=2077395#/) 3.23 Does a bit of damage 10/2020
+
+[MoonsDaughter](https://www.torn.com/profiles.php?XID=195567)   3.24 Moderate damage, but easily winable 10/2020
+
+[Binkel](https://www.torn.com/profiles.php?XID=275695#/) 3.36 Does moderate damage 08/2020
+
+[DecroW](https://www.torn.com/profiles.php?XID=1317469#/) 3.19 Does a fair amount of damage 05/2020
+
+[Elsje](https://www.torn.com/profiles.php?XID=456078#/) 3.00. 05/2020 Can't hurt me
+
+[santaklaus1991](https://www.torn.com/profiles.php?XID=631514) 3.00 05/2020 Crits a lot. Mugged $4K
+
+[MiracleCure](https://www.torn.com/profiles.php?XID=478563#/) 2.99 Moderate damage 08/2020
+
+[erb](https://www.torn.com/profiles.php?XID=2278415) 2.94 12/20
+
+[The_Cowboy71](https://www.torn.com/profiles.php?XID=24021#/) Easy 2.72
+
+[Johnny14](https://www.torn.com/profiles.php?XID=724755#/) 2.91 No damage 05/2020
+
+[KingJS](https://www.torn.com/profiles.php?XID=2029903) 3.17 No damage, fastish. LVL 71 05/2020
+
+[forsan](https://www.torn.com/profiles.php?XID=132893#/) 2.81. Mugged $78K. Minor damage 05/2020
+
+[-BlackOrchid-](https://www.torn.com/profiles.php?XID=1558112#/) 2.77 No damage 05/2020
+
+[SecretxPockets](https://www.torn.com/profiles.php?XID=476975#/) 2.71 02/2020
 
 [AlwaysTangled](https://www.torn.com/profiles.php?XID=2097129#/) 3.47 Does < 10 damage. Hard to hit but can be done
 
 [just1blackman](https://www.torn.com/profiles.php?XID=1275434#/) 3.35 02/2020
+
+[Luke19ukok](https://www.torn.com/profiles.php?XID=1461981#/) 3.04 Moderate damage 05/2020
 
 [RomanCat](https://www.torn.com/profiles.php?XID=434457#/) 3.29 02/2020 Minor damage
 
@@ -96,6 +170,118 @@
 [Axelsson](https://www.torn.com/profiles.php?XID=2102210#/) 2.09 No damage 02/2020
 
 [1dvsbstd](https://www.torn.com/profiles.php?XID=200842#/) 2.07 ?? 02/2020
+
+
+ONLY MUGGED
+-----------
+[R1P](https://www.torn.com/profiles.php?XID=1399035#/) 1.81 A bit of damage, but easy on vicodin 06/2020
+[-ScarletQueen-](https://www.torn.com/profiles.php?XID=1561277) LVL 63 1.81 $5K 06/2020
+
+Unhit
+------
+
+
+
+
+
+[0ffline](https://www.torn.com/profiles.php?XID=1822187) Crazy mugger. Need to catch up
+
+
+
+[Joel-Miller](https://www.torn.com/profiles.php?XID=50371)
+
+
+
+Actives
+-------
+
+[Mr_JD_GODFATHER](https://www.torn.com/profiles.php?XID=1410797) 5.72  10/2020
+
+
+[Rud3](https://www.torn.com/profiles.php?XID=1768199) 5.8 12/20
+
+[EmbraceHim](https://www.torn.com/profiles.php?XID=2194846#/) 2.11 Easy
+[Xourafas](https://www.torn.com/profiles.php?XID=2322328#/) Lots of attacks
+[Coralin3](https://www.torn.com/profiles.php?XID=2279191#/)
+
+[nurserenay](https://www.torn.com/profiles.php?XID=2153408#/) LVL 97 but not that old. Can't have that high stats. Still need a bit more work
+
+**[CLOGMATIC](https://www.torn.com/profiles.php?XID=2259718#/) Lots of attacks
+**[Balllicker17](https://www.torn.com/profiles.php?XID=2305853#/) Lots of attacks. Has tags
+**[Nora_T](https://www.torn.com/profiles.php?XID=2252025#/) Very active. Has tags
+**[Tietsworth](https://www.torn.com/profiles.php?XID=2301185#/) Easy win. Has tags, maybe less now
+**[Aymenlevi](https://www.torn.com/profiles.php?XID=2306774#/) Very active. Has tags
+
+[Instagram-](https://www.torn.com/profiles.php?XID=2280532#/) 2.50 (ACTIVE, a little pissed). Few attacks
+
+[Musketeer3](https://www.torn.com/profiles.php?XID=2190335#/) Lots of attacks
+
+**[seldom_use](https://www.torn.com/profiles.php?XID=2245669#/) Lots of attacks
+
+[ale36](https://www.torn.com/profiles.php?XID=285645#/) Lots of attacks. Too tough for me
+
+[mikeytoad22](https://www.torn.com/profiles.php?XID=2092003#/) Decent attacks. Easy
+
+** [JackKelly](https://www.torn.com/profiles.php?XID=2271177#/) A little hard to hit. 
+
+
+[Astrom](https://www.torn.com/profiles.php?XID=2309708#/) Moderate attacks
+
+[CosB](https://www.torn.com/profiles.php?XID=2214595#/) Probably close
+
+[St1ckmanStory](https://www.torn.com/profiles.php?XID=2273824#/) Could be close
+
+
+Few attacks
+
+
+** [Maladin](https://www.torn.com/profiles.php?XID=2262201#/) 1.41
+** [superfurrykylos](https://www.torn.com/profiles.php?XID=2171896#/) 0.82
+
+
+No attacks yet
+
+[Rain](https://www.torn.com/profiles.php?XID=2303098#/) Should be winnable but has no attacks
+[Judaism](https://www.torn.com/profiles.php?XID=2207330#/) Asshole
+
+
+
+
+Maybe hard
+----
+
+
+[--Boudica--](https://www.torn.com/profiles.php?XID=1909709#/) Has played a lot
+
+
+
+
+
+Too hard
+----
+
+[bumbaclot](https://www.torn.com/profiles.php?XID=2033351) Huge attacks and high level. 
+
+[GRID](https://www.torn.com/profiles.php?XID=1563202#/) Close, but they do too much damage
+
+[RedWulf](https://www.torn.com/profiles.php?XID=384850#/) Beats me with over 50% health left. 02/2020
+
+
+
+Travelling
+------
+
+[Cenation](https://www.torn.com/profiles.php?XID=1592217#/)
+[SEVYN](https://www.torn.com/profiles.php?XID=2198866#/) 2.56 Moto helm, hard to hit
+
+
+
+
+
+
+Low respect
+---
+
 
 
 [MyWay](https://www.torn.com/profiles.php?XID=1943362#/) $11,065 (+2.41) Can't hurt me, a little hard to hit
@@ -194,112 +380,8 @@
 
 ** [TheFirstWolf](https://www.torn.com/profiles.php?XID=1983877#/) 1.93 02/2020
 
-** [J_a__c_K](https://www.torn.com/profiles.php?XID=2197141#/) 1.77
-
-** [dimz](https://www.torn.com/profiles.php?XID=48289#/) 1.73  $14,303
-
-Unhit
-------
-
-
-
-[R1P](https://www.torn.com/profiles.php?XID=1399035#/) Lots of drugs A little older than me
-
-
-
-Actives
--------
-
-
-
-
-[EmbraceHim](https://www.torn.com/profiles.php?XID=2194846#/) 2.11 Easy
-[Xourafas](https://www.torn.com/profiles.php?XID=2322328#/) Lots of attacks
-[Coralin3](https://www.torn.com/profiles.php?XID=2279191#/)
-
-[nurserenay](https://www.torn.com/profiles.php?XID=2153408#/) LVL 97 but not that old. Can't have that high stats. Still need a bit more work
-
-**[CLOGMATIC](https://www.torn.com/profiles.php?XID=2259718#/) Lots of attacks
-**[Balllicker17](https://www.torn.com/profiles.php?XID=2305853#/) Lots of attacks. Has tags
-**[Nora_T](https://www.torn.com/profiles.php?XID=2252025#/) Very active. Has tags
-**[Tietsworth](https://www.torn.com/profiles.php?XID=2301185#/) Easy win. Has tags, maybe less now
-**[Aymenlevi](https://www.torn.com/profiles.php?XID=2306774#/) Very active. Has tags
-
-[Instagram-](https://www.torn.com/profiles.php?XID=2280532#/) 2.50 (ACTIVE, a little pissed). Few attacks
-
-[Musketeer3](https://www.torn.com/profiles.php?XID=2190335#/) Lots of attacks
-
-**[seldom_use](https://www.torn.com/profiles.php?XID=2245669#/) Lots of attacks
-
-[ale36](https://www.torn.com/profiles.php?XID=285645#/) Lots of attacks. Too tough for me
-
-[mikeytoad22](https://www.torn.com/profiles.php?XID=2092003#/) Decent attacks. Easy
-
-** [JackKelly](https://www.torn.com/profiles.php?XID=2271177#/) A little hard to hit. 
-
-
-[Astrom](https://www.torn.com/profiles.php?XID=2309708#/) Moderate attacks
-
-[CosB](https://www.torn.com/profiles.php?XID=2214595#/) Probably close
-
-[St1ckmanStory](https://www.torn.com/profiles.php?XID=2273824#/) Could be close
-
-
-Few attacks
-
-
-** [Maladin](https://www.torn.com/profiles.php?XID=2262201#/) 1.41
-** [superfurrykylos](https://www.torn.com/profiles.php?XID=2171896#/) 0.82
-
-
-No attacks yet
-
-[Rain](https://www.torn.com/profiles.php?XID=2303098#/) Should be winnable but has no attacks
-[Judaism](https://www.torn.com/profiles.php?XID=2207330#/) Asshole
-
-
-
-
-Maybe hard
-----
-
-
-
-
-[Ashleyy_](https://www.torn.com/profiles.php?XID=2150836#/) 473 days. Huge activity. Lots of attacks. Lots of drugs
-
-
-[--Boudica--](https://www.torn.com/profiles.php?XID=1909709#/) Has played a lot
-
-
-
-
-
-Too hard
-----
-
-[bumbaclot](https://www.torn.com/profiles.php?XID=2033351) Huge attacks and high level. 
-
-[GRID](https://www.torn.com/profiles.php?XID=1563202#/) Close, but they do too much damage
-[Luke19ukok](https://www.torn.com/profiles.php?XID=1461981#/) Does a lot of damage
-[RedWulf](https://www.torn.com/profiles.php?XID=384850#/) Beats me with over 50% health left. 02/2020
-
-
-
-Travelling
-------
-
-[Cenation](https://www.torn.com/profiles.php?XID=1592217#/)
-[SEVYN](https://www.torn.com/profiles.php?XID=2198866#/) 2.56 Moto helm, hard to hit
-
-
-
-
-
-
-Low respect
----
-
+[J_a__c_K](https://www.torn.com/profiles.php?XID=2197141#/) 1.77
+[dimz](https://www.torn.com/profiles.php?XID=48289#/) 1.73  $14,303
 [Goblin](https://www.torn.com/profiles.php?XID=445137#/) LVL 48
 [Mari](https://www.torn.com/profiles.php?XID=448357#/)
 [poongy](https://www.torn.com/profiles.php?XID=751913#/)
