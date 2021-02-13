@@ -1,8 +1,22 @@
+[KramCracker](https://www.torn.com/profiles.php?XID=1431681) Too hard to hit
+https://www.torn.com/loader.php?sid=attackLog&ID=ea8047c9ed0b7b609f13dab93eda6a6b
+
+[serpioth426](https://www.torn.com/profiles.php?XID=211389) 6.37 Very HARD 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=87e4d8d04a762e41ee37c38c6dc346db
+
 [Nicole](https://www.torn.com/profiles.php?XID=1422193) Very hard  6.52 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=790d45f3b5f6a7dff5dfd8a18c68d8fd
 
+[CMLCHICKIE](https://www.torn.com/profiles.php?XID=430138) 6.45 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=c8b99c8d79ea1481dc631b144c76f3a1
+
 [TIMMAH](https://www.torn.com/profiles.php?XID=887797) No armor and pillow weapon. 6.42 02/21
 
+[Valiant](https://www.torn.com/profiles.php?XID=1459596) 6.46 Not much armor 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=c3ef105bfa628ce0939529b971250402
+
+[GaeaRosa](https://www.torn.com/profiles.php?XID=2124990) 6.45 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=12cd0281ced869cc9a4f88eddd897822
 
 [Harpua](https://www.torn.com/profiles.php?XID=1827295) 6.42 02/21
 
@@ -12,12 +26,30 @@ https://www.torn.com/loader.php?sid=attackLog&ID=e72844477504cce651f3acfe14aec54
 [16624](https://www.torn.com/profiles.php?XID=16624) 6.33 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=c4915b4410a2f5dca2e61c63baa7b019
 
+[kijun](https://www.torn.com/profiles.php?XID=260734) 6.36 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=52707bde2aa3dd0b2b798a8acddf71bf
+
 [BlackHoleSun](https://www.torn.com/profiles.php?XID=85372) 6.29  Can  hit really hard 02/21
 
 [Alan79](https://www.torn.com/profiles.php?XID=1500171) 6.23 Hard to hit and tough 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=88d58d51ce2704c5aa64c9d16ab82b68
 
+[ThorHunT](https://www.torn.com/profiles.php?XID=114721) 6.28 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=073e078d9dca33159aeb3bc261bc7030
+
 [-Koe-](https://www.torn.com/profiles.php?XID=430360) 6.34 Hard to hit 02/21
+
+[Lem](https://www.torn.com/profiles.php?XID=2002305) 6.32 HARD 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=35884f237a8118b4df86ed0be6771f6d
+
+[Gator](https://www.torn.com/profiles.php?XID=1875355) 6.28 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=f5ec207c5c56b466a40c93a909ebb27c
+
+[shmiffy04](https://www.torn.com/profiles.php?XID=274028) 6.27 Might  be  weak 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=714a6fa7f401782583842c1ca02484b0
+
+[Kummat](https://www.torn.com/profiles.php?XID=764313) 6.17 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=3e6b7e28a6eade451ed1ee58ea04ba24
 
 [LooseZeus](https://www.torn.com/profiles.php?XID=372698) 6.14 Very hard to hit 12/20
 
@@ -28,7 +60,8 @@ https://www.torn.com/loader.php?sid=attackLog&ID=245768a4ed1f580a427f921d44fc48b
 
 [JoWickerman](https://www.torn.com/profiles.php?XID=1589241) 6.10 12/20
 
-[IceMeld](https://www.torn.com/profiles.php?XID=1626587) 6.03 A lot stronger than me 12/20
+[IceMeld](https://www.torn.com/profiles.php?XID=1626587) 6.03 VERY HARD 12/20
+https://www.torn.com/loader.php?sid=attackLog&ID=92d8461d171bc129a3565e6d0bd08942
 
 [Uncle_Meat](https://www.torn.com/profiles.php?XID=420418) 6.10 Does a lot of damage and hard to hit 12/20
 
@@ -37,6 +70,9 @@ https://www.torn.com/loader.php?sid=attackLog&ID=245768a4ed1f580a427f921d44fc48b
 [BloodyX](https://www.torn.com/profiles.php?XID=1298573) 6.02 12/20
 
 [arbuckle](https://www.torn.com/profiles.php?XID=1898310) 6.06 12/20
+
+[ThatIrishGuy](https://www.torn.com/profiles.php?XID=1378244) 6.37 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=c07fc6f0eb54464c22534efafe0e3047
 
 [-LG-](https://www.torn.com/profiles.php?XID=161994) 5.76 12/20
 
@@ -53,7 +89,8 @@ https://www.torn.com/loader.php?sid=attackLog&ID=245768a4ed1f580a427f921d44fc48b
 [silwer](https://www.torn.com/profiles.php?XID=1850768) 5.12 Very even 10/2020
 
 
-
+[Haraguchi](https://www.torn.com/profiles.php?XID=41861) 6.42 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=a041e1d0f0f287a7d55c9f2eb78fc25e
 
 
 [AlterBridge](https://www.torn.com/profiles.php?XID=559070) 5.93 Sometimes hard to hit and does high damage 01/21
@@ -68,7 +105,28 @@ https://www.torn.com/loader.php?sid=attackLog&ID=ab144609e194fb70498b17c56432d3b
 [O_Soul](https://www.torn.com/profiles.php?XID=153147) 6.33 No armor, pillow 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=d85b7786231ece59f015e0118d3d5d31
 
+[Ibbyz](https://www.torn.com/profiles.php?XID=229585) 6.09 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=b8c6188740c91e16e5c143028122d4f5
+
+[Artificial](https://www.torn.com/profiles.php?XID=922495) No weapons 6.13 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=94b26f07dd35323bae6b0dd3e7e2ebfe
+
+[Stubbs](https://www.torn.com/profiles.php?XID=2178001) 6.24 High def, low damage 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=95fda1ee54f642277221e794cf40e897
+
+[Pustamis](https://www.torn.com/profiles.php?XID=2067561) 5.65 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=1628c794e739a74de91045a3a04d9f82
+
+[PMOXXL](https://www.torn.com/profiles.php?XID=198079) 6.26 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=56b709f81d0c684ec64c7abbbd80400d
+
+[124243](https://www.torn.com/profiles.php?XID=124243) 6.45 Only  has kicks 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=ca921600d03a8eff782a3aeba402b59a
+
 -----------
+
+[__Ninja__](https://www.torn.com/profiles.php?XID=761121) 6.55 Only kicks 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=f67461c2891a363267f38fdcf080e058
 
 [Millwallquit](https://www.torn.com/profiles.php?XID=28174) 6.47 Seems to have low DEF 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=3133b01f1dac6850f9dc8160b6a930d9
@@ -83,21 +141,38 @@ https://www.torn.com/loader.php?sid=attackLog&ID=480c4d578d5b268ac2929e51a729097
 [Cagaster](https://www.torn.com/profiles.php?XID=1123455)  5.84 02/21
 torn.com/loader.php?sid=attackLog&ID=0f40d7dca668a249811e178ca350feb4
 
+[187800](https://www.torn.com/profiles.php?XID=187800) 5.68 02/21
+
 [DarkAngelLord](https://www.torn.com/profiles.php?XID=1721095) 5.79 Mostly uses crappy melee 01/21
 
 [thepeon](https://www.torn.com/profiles.php?XID=356975) 5.41 pretty close fight 05/2020
 
-[Sir_Pb](https://www.torn.com/profiles.php?XID=247460) 5.28 Not a big problem 01/2021
+[Sir_Pb](https://www.torn.com/profiles.php?XID=247460) 5.28 Not a big problem 01/21
 
 [macizo](https://www.torn.com/profiles.php?XID=2065675) 5.04 A bit fast, but does little damage 02/2020
 
+[kuzer](https://www.torn.com/profiles.php?XID=837569) 5.16 02/21
+
 [Richk109](https://www.torn.com/profiles.php?XID=1469191) 5.14 Only has kicks, still hits kind of hard 10/2020
 
+[pozzani](https://www.torn.com/profiles.php?XID=338601) 5.10 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=63da0eb8bfd176805b218847b72faece
+
+[Kenion](https://www.torn.com/profiles.php?XID=425633) 4.96 02/21
+
+[Tyrael](https://www.torn.com/profiles.php?XID=15527) 4.91 02/21
+
+[Lord1Crimson](https://www.torn.com/profiles.php?XID=2063) 4.89 02/21
+
 [Kaisu](https://www.torn.com/profiles.php?XID=569419) Seemed easy 4.89 02/21
+
+[Hallovveen](https://www.torn.com/profiles.php?XID=991034) 4.78 02/21
 
 [mihaytza](https://www.torn.com/profiles.php?XID=596856) 4.41 02/21
 
 [dartwill6](https://www.torn.com/profiles.php?XID=63663) 4.39 02/21
+
+[Brotha_J](https://www.torn.com/profiles.php?XID=32894) 4.21 02/21
 
 [IHateVincent](https://www.torn.com/profiles.php?XID=278290) 4.26 12/20
 
@@ -119,6 +194,8 @@ torn.com/loader.php?sid=attackLog&ID=0f40d7dca668a249811e178ca350feb4
 
 [Scors](https://www.torn.com/profiles.php?XID=127803) 3.98 No damage  10/2020
 
+[BrewBelly](https://www.torn.com/profiles.php?XID=130532) 3.57 02/21
+
 [PhantomCook](https://www.torn.com/profiles.php?XID=426060) 3.67 02/21
 
 [arbuckle](https://www.torn.com/profiles.php?XID=73139) 3.62 02/21
@@ -127,11 +204,15 @@ torn.com/loader.php?sid=attackLog&ID=0f40d7dca668a249811e178ca350feb4
 
 [GanjaWanderer](https://www.torn.com/profiles.php?XID=2076449) 3.84 Some damage 10/2020
 
+[DragonDevil](https://www.torn.com/profiles.php?XID=282320) 3.49 02/21
+
 [Gemgenie](https://www.torn.com/profiles.php?XID=256093)  3.44 02/21
 
 [Dammaz_Kron](https://www.torn.com/profiles.php?XID=530505) 3.27 12/20
 
 [DTorn](https://www.torn.com/profiles.php?XID=913457) 4.41 Does some damage 10/2020 
+
+[MarkingBad](https://www.torn.com/profiles.php?XID=421038) 3.31 02/21
 
 [TorRed](https://www.torn.com/profiles.php?XID=751255) 3.30 Only taken out when weak
 
@@ -150,6 +231,8 @@ torn.com/loader.php?sid=attackLog&ID=0f40d7dca668a249811e178ca350feb4
 [santaklaus1991](https://www.torn.com/profiles.php?XID=631514) 3.00 05/2020 Crits a lot. Mugged $4K
 
 [MiracleCure](https://www.torn.com/profiles.php?XID=478563#/) 2.99 Moderate damage 08/2020
+
+[-BC-BeeStung](https://www.torn.com/profiles.php?XID=1187274) 2.94 02/21
 
 [erb](https://www.torn.com/profiles.php?XID=2278415) 2.94 12/20
 
