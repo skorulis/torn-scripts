@@ -92,6 +92,8 @@ https://www.torn.com/loader.php?sid=attackLog&ID=c07fc6f0eb54464c22534efafe0e304
 [Haraguchi](https://www.torn.com/profiles.php?XID=41861) 6.42 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=a041e1d0f0f287a7d55c9f2eb78fc25e
 
+[dextroze](https://www.torn.com/profiles.php?XID=1060364)  6.32 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=b09c81146ca108a8d39d9eb543581ec4
 
 [AlterBridge](https://www.torn.com/profiles.php?XID=559070) 5.93 Sometimes hard to hit and does high damage 01/21
 
@@ -120,19 +122,27 @@ https://www.torn.com/loader.php?sid=attackLog&ID=1628c794e739a74de91045a3a04d9f8
 [PMOXXL](https://www.torn.com/profiles.php?XID=198079) 6.26 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=56b709f81d0c684ec64c7abbbd80400d
 
+[Ms_HELLFIRE](https://www.torn.com/profiles.php?XID=353840) 6.02 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=580c67a4b9c29684dd6f4527fac59905
+
 [124243](https://www.torn.com/profiles.php?XID=124243) 6.45 Only  has kicks 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=ca921600d03a8eff782a3aeba402b59a
 
------------
+[Lightofdeath](https://www.torn.com/profiles.php?XID=915061) 5.89 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=a89f213b90f2ecdc4d7fb9210d77c952
 
-[__Ninja__](https://www.torn.com/profiles.php?XID=761121) 6.55 Only kicks 02/21
+[Dorian_Gray](https://www.torn.com/profiles.php?XID=339683) 5.70 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=66fdf1da9e6974c8e62c3beefbf33691
+
+[__Ninja__](https://www.torn.com/profiles.php?XID=761121) 6.55 Only kicks but hard to hit 02/21
 https://www.torn.com/loader.php?sid=attackLog&ID=f67461c2891a363267f38fdcf080e058
 
-[Millwallquit](https://www.torn.com/profiles.php?XID=28174) 6.47 Seems to have low DEF 02/21
-https://www.torn.com/loader.php?sid=attackLog&ID=3133b01f1dac6850f9dc8160b6a930d9
+-----------
 
-[Lassiter](https://www.torn.com/profiles.php?XID=243498) 6.09
-https://www.torn.com/loader.php?sid=attackLog&ID=480c4d578d5b268ac2929e51a7290977
+
+
+[Millwallquit](https://www.torn.com/profiles.php?XID=28174) 6.47 Seems to have low DEF, but  DEX can be an issue 02/21
+https://www.torn.com/loader.php?sid=attackLog&ID=3133b01f1dac6850f9dc8160b6a930d9
 
 [Metal_MiIitiA](https://www.torn.com/profiles.php?XID=421260) 6.19 Quite even  10/2020
 
@@ -333,6 +343,9 @@ Actives
 -------
 
 [Mr_JD_GODFATHER](https://www.torn.com/profiles.php?XID=1410797) 5.72  10/2020
+
+[Lassiter](https://www.torn.com/profiles.php?XID=243498) 6.09
+https://www.torn.com/loader.php?sid=attackLog&ID=480c4d578d5b268ac2929e51a7290977
 
 
 [Rud3](https://www.torn.com/profiles.php?XID=1768199) 5.8 12/20
